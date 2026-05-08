@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-May 7, 2026 at 02:40:03 AM UTC
+May 8, 2026 at 02:45:04 AM UTC
 
 
 ## Theorem
 
-## Papers (792)
+## Papers (796)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -826,6 +826,10 @@ May 7, 2026 at 02:40:03 AM UTC
 - [Predicting Euler Characteristics and Constructing Topological Structure Using Machine Learning Techniques](https://arxiv.org/abs/2605.02947)
 - [Differentiable Chemistry in PINNs for Solving Parameterized and Stiff Reaction Systems](https://arxiv.org/abs/2605.04708)
 - [Gradient Scaling Effects in Adaptive Spectral PINNs for Stiff Nonlinear ODEs](https://arxiv.org/abs/2605.04502)
+- [INEUS: Iterative Neural Solver for High-Dimensional PIDEs](https://arxiv.org/abs/2605.06281)
+- [Lattice fermion formulation via Physics-Informed Neural Networks: Ginsparg-Wilson relation and Overlap fermions](https://arxiv.org/abs/2605.06022)
+- [Invariant Manifolds of Discrete-time Dynamical Systems with Nonlinear Exosystems via Hybrid Physics-Informed Neural Networks](https://arxiv.org/abs/2506.13950)
+- [Sensoformer: Robust Sim-to-Real Inference on Variable-Geometry Sensor Sets via Physics-Structured Randomization](https://arxiv.org/abs/2601.06320)
 
 
 ## Library
