@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-May 10, 2026 at 02:44:55 AM UTC
+May 11, 2026 at 02:54:23 AM UTC
 
 
 ## Theorem
 
-## Papers (796)
+## Papers (801)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -830,6 +830,11 @@ May 10, 2026 at 02:44:55 AM UTC
 - [Lattice fermion formulation via Physics-Informed Neural Networks: Ginsparg-Wilson relation and Overlap fermions](https://arxiv.org/abs/2605.06022)
 - [Invariant Manifolds of Discrete-time Dynamical Systems with Nonlinear Exosystems via Hybrid Physics-Informed Neural Networks](https://arxiv.org/abs/2506.13950)
 - [Sensoformer: Robust Sim-to-Real Inference on Variable-Geometry Sensor Sets via Physics-Structured Randomization](https://arxiv.org/abs/2601.06320)
+- [Adaptive Domain Decomposition Physics-Informed Neural Networks for Traffic State Estimation with Sparse Sensor Data](https://arxiv.org/abs/2605.08028)
+- [Pre-training Enables Extraordinary All-optical Image Denoising](https://arxiv.org/abs/2605.07810)
+- [Physics Aware Representation Learning on Electronic Charge Density for Materials Property Prediction](https://arxiv.org/abs/2605.07227)
+- [Stabilized neural Hamilton--Jacobi--Bellman solvers: Error analysis and applications in model-based reinforcement learning](https://arxiv.org/abs/2605.07116)
+- [Functional-prior-based Bayesian PDE-constrained inversion using PINNs](https://arxiv.org/abs/2605.07060)
 
 
 ## Library
