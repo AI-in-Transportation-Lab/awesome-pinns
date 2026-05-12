@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-May 11, 2026 at 02:54:23 AM UTC
+May 12, 2026 at 02:46:15 AM UTC
 
 
 ## Theorem
 
-## Papers (801)
+## Papers (813)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -835,6 +835,18 @@ May 11, 2026 at 02:54:23 AM UTC
 - [Physics Aware Representation Learning on Electronic Charge Density for Materials Property Prediction](https://arxiv.org/abs/2605.07227)
 - [Stabilized neural Hamilton--Jacobi--Bellman solvers: Error analysis and applications in model-based reinforcement learning](https://arxiv.org/abs/2605.07116)
 - [Functional-prior-based Bayesian PDE-constrained inversion using PINNs](https://arxiv.org/abs/2605.07060)
+- [SymTorch: Symbolic Distillation of Neural Networks](https://arxiv.org/abs/2602.21307)
+- [DUALFloodGNN: Physics-informed Graph Neural Network for Operational Flood Modeling](https://arxiv.org/abs/2512.23964)
+- [Per-Loss Adapters for Gradient Conflict in Physics-Informed Neural Networks](https://arxiv.org/abs/2605.10136)
+- [Chebyshev Center-Based Direction Selection for Multi-Objective Optimization and Training PINNs](https://arxiv.org/abs/2605.09975)
+- [Adaptive Data Harvesting for Efficient Neural Network Learning with Universal Constraints](https://arxiv.org/abs/2605.09707)
+- [Bayesian Reasoning for Physics Informed Neural Networks](https://arxiv.org/abs/2308.13222)
+- [Inferring identified hadron production in pppp collisions with physics-informed machine learning at the LHC](https://arxiv.org/abs/2605.09022)
+- [Posterior Concentration of Bayesian Physics-Informed Neural Networks for Elliptic PDEs](https://arxiv.org/abs/2605.08672)
+- [A Deep Risk Estimator for Known Operator Learning](https://arxiv.org/abs/2605.08517)
+- [AdamFLIP: Adaptive Momentum Feedback Linearization Optimization for Hard Constrained PINN Training](https://arxiv.org/abs/2605.08408)
+- [When Attention Beats Fourier: Multi-Scale Transformers for PDE Solving on Irregular Domains](https://arxiv.org/abs/2605.08318)
+- [Hierarchical Multi-Fidelity Learning for Predicting Three-Dimensional Flame Wrinkling and Turbulent Burning Velocity](https://arxiv.org/abs/2605.08232)
 
 
 ## Library
