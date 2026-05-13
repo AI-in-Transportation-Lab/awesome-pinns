@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-May 12, 2026 at 02:46:15 AM UTC
+May 13, 2026 at 02:51:40 AM UTC
 
 
 ## Theorem
 
-## Papers (813)
+## Papers (816)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -847,6 +847,9 @@ May 12, 2026 at 02:46:15 AM UTC
 - [AdamFLIP: Adaptive Momentum Feedback Linearization Optimization for Hard Constrained PINN Training](https://arxiv.org/abs/2605.08408)
 - [When Attention Beats Fourier: Multi-Scale Transformers for PDE Solving on Irregular Domains](https://arxiv.org/abs/2605.08318)
 - [Hierarchical Multi-Fidelity Learning for Predicting Three-Dimensional Flame Wrinkling and Turbulent Burning Velocity](https://arxiv.org/abs/2605.08232)
+- [Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates](https://arxiv.org/abs/2605.11610)
+- [Physics-Informed Teacher-Student Ensemble Learning for Traffic State Estimation with a Varying Speed Limit Scenario](https://arxiv.org/abs/2605.11346)
+- [Finite Volume-Informed Neural Network Framework for 2D Shallow Water Equations: Rugged Loss Landscapes and the Importance of Data Guidance](https://arxiv.org/abs/2605.11001)
 
 
 ## Library
