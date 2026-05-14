@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-May 13, 2026 at 02:51:40 AM UTC
+May 14, 2026 at 02:53:38 AM UTC
 
 
 ## Theorem
 
-## Papers (816)
+## Papers (820)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -850,6 +850,10 @@ May 13, 2026 at 02:51:40 AM UTC
 - [Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates](https://arxiv.org/abs/2605.11610)
 - [Physics-Informed Teacher-Student Ensemble Learning for Traffic State Estimation with a Varying Speed Limit Scenario](https://arxiv.org/abs/2605.11346)
 - [Finite Volume-Informed Neural Network Framework for 2D Shallow Water Equations: Rugged Loss Landscapes and the Importance of Data Guidance](https://arxiv.org/abs/2605.11001)
+- [Uncertainty-Aware Prediction of Lung Tumor Growth from Sparse Longitudinal CT Data via Bayesian Physics-Informed Neural Networks](https://arxiv.org/abs/2605.13560)
+- [Unified generalization analysis for physics informed neural networks](https://arxiv.org/abs/2605.13260)
+- [NeuroRisk: Physics-Informed Neural Optimization for Risk-Aware Traffic Engineering](https://arxiv.org/abs/2605.12862)
+- [Identifying the nonlinear string dynamics with port-Hamiltonian neural networks](https://arxiv.org/abs/2605.12785)
 
 
 ## Library
