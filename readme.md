@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-May 14, 2026 at 02:53:38 AM UTC
+May 15, 2026 at 02:55:29 AM UTC
 
 
 ## Theorem
 
-## Papers (820)
+## Papers (823)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -854,6 +854,9 @@ May 14, 2026 at 02:53:38 AM UTC
 - [Unified generalization analysis for physics informed neural networks](https://arxiv.org/abs/2605.13260)
 - [NeuroRisk: Physics-Informed Neural Optimization for Risk-Aware Traffic Engineering](https://arxiv.org/abs/2605.12862)
 - [Identifying the nonlinear string dynamics with port-Hamiltonian neural networks](https://arxiv.org/abs/2605.12785)
+- [Unsupervised simulation of incompressible flows with physics- and equality- constrained artificial neural networks](https://arxiv.org/abs/2511.18820)
+- [Unbiased and Second-Order-Free Training for High-Dimensional PDEs](https://arxiv.org/abs/2605.14643)
+- [Functional-prior-based approaches to Bayesian PDE-constrained inversion using physics-informed neural networks](https://arxiv.org/abs/2605.07060)
 
 
 ## Library
