@@ -28,7 +28,7 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-May 15, 2026 at 02:55:29 AM UTC
+May 16, 2026 at 02:42:51 AM UTC
 
 
 ## Theorem
