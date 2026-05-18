@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-May 16, 2026 at 02:42:51 AM UTC
+May 18, 2026 at 03:29:06 AM UTC
 
 
 ## Theorem
 
-## Papers (823)
+## Papers (829)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -857,6 +857,12 @@ May 16, 2026 at 02:42:51 AM UTC
 - [Unsupervised simulation of incompressible flows with physics- and equality- constrained artificial neural networks](https://arxiv.org/abs/2511.18820)
 - [Unbiased and Second-Order-Free Training for High-Dimensional PDEs](https://arxiv.org/abs/2605.14643)
 - [Functional-prior-based approaches to Bayesian PDE-constrained inversion using physics-informed neural networks](https://arxiv.org/abs/2605.07060)
+- [A numerical study into neural network surrogate model performance for uncertainty propagation](https://arxiv.org/abs/2605.16078)
+- [Variational Autoregressive Networks with probability priors](https://arxiv.org/abs/2605.16020)
+- [When and Why Adversarial Training Improves PINNs: A Neural Tangent Kernel Perspective](https://arxiv.org/abs/2605.15959)
+- [Microscopic derivation of the interacting boson model parameters with machine learning](https://arxiv.org/abs/2605.15623)
+- [Deep Learning Alternatives of the Kolmogorov Superposition Theorem](https://arxiv.org/abs/2410.01990)
+- [Curriculum Learning of Physics-Informed Neural Networks based on Spatial Correlation](https://arxiv.org/abs/2605.15254)
 
 
 ## Library
