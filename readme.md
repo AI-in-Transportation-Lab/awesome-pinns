@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-May 18, 2026 at 03:29:06 AM UTC
+May 19, 2026 at 02:57:39 AM UTC
 
 
 ## Theorem
 
-## Papers (829)
+## Papers (830)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -863,6 +863,7 @@ May 18, 2026 at 03:29:06 AM UTC
 - [Microscopic derivation of the interacting boson model parameters with machine learning](https://arxiv.org/abs/2605.15623)
 - [Deep Learning Alternatives of the Kolmogorov Superposition Theorem](https://arxiv.org/abs/2410.01990)
 - [Curriculum Learning of Physics-Informed Neural Networks based on Spatial Correlation](https://arxiv.org/abs/2605.15254)
+- [A Critical Assessment of PINNs and Operator Learning for Geotechnical Engineering](https://arxiv.org/abs/2512.24365)
 
 
 ## Library
