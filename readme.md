@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-May 19, 2026 at 02:57:39 AM UTC
+May 20, 2026 at 02:57:52 AM UTC
 
 
 ## Theorem
 
-## Papers (830)
+## Papers (833)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -864,6 +864,9 @@ May 19, 2026 at 02:57:39 AM UTC
 - [Deep Learning Alternatives of the Kolmogorov Superposition Theorem](https://arxiv.org/abs/2410.01990)
 - [Curriculum Learning of Physics-Informed Neural Networks based on Spatial Correlation](https://arxiv.org/abs/2605.15254)
 - [A Critical Assessment of PINNs and Operator Learning for Geotechnical Engineering](https://arxiv.org/abs/2512.24365)
+- [Stochastic Penalty-Barrier Methods for Constrained Machine Learning](https://arxiv.org/abs/2605.18618)
+- [StableGrad: Backward Scale Control without Batch Normalization](https://arxiv.org/abs/2605.19856)
+- [From Simple to Complex: Curriculum-Guided Physics-Informed Neural Networks via Gaussian Mixture Models](https://arxiv.org/abs/2605.19263)
 
 
 ## Library
