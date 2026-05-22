@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-May 21, 2026 at 03:28:00 AM UTC
+May 22, 2026 at 03:27:56 AM UTC
 
 
 ## Theorem
 
-## Papers (835)
+## Papers (838)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -869,6 +869,9 @@ May 21, 2026 at 03:28:00 AM UTC
 - [From Simple to Complex: Curriculum-Guided Physics-Informed Neural Networks via Gaussian Mixture Models](https://arxiv.org/abs/2605.19263)
 - [Multi-scale Dynamic Wake Modeling and Prediction of Floating Offshore Wind Turbines via Physics-Informed Neural Networks and Fourier Neural Operators](https://arxiv.org/abs/2604.23937)
 - [Physics-informed convolutional neural networks for fluid flow through porous media](https://arxiv.org/abs/2605.20250)
+- [MoSA: Motion-constrained Stress Adaptation for Mitigating Real-to-Sim Gap in Continuum Dynamics via Learning Residual Anisotropy](https://arxiv.org/abs/2605.22597)
+- [Holomorphic Neural ODEs with Kolmogorov-Arnold Networks for Interpretable Discovery of Complex Dynamics](https://arxiv.org/abs/2605.22235)
+- [Engineering Hybrid Physics-Informed Neural Networks for Next-Generation Electricity Systems: A State-of-the-Art Review](https://arxiv.org/abs/2605.21903)
 
 
 ## Library
