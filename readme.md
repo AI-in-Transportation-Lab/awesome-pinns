@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-May 24, 2026 at 03:24:33 AM UTC
+May 25, 2026 at 03:35:59 AM UTC
 
 
 ## Theorem
 
-## Papers (838)
+## Papers (841)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -872,6 +872,9 @@ May 24, 2026 at 03:24:33 AM UTC
 - [MoSA: Motion-constrained Stress Adaptation for Mitigating Real-to-Sim Gap in Continuum Dynamics via Learning Residual Anisotropy](https://arxiv.org/abs/2605.22597)
 - [Holomorphic Neural ODEs with Kolmogorov-Arnold Networks for Interpretable Discovery of Complex Dynamics](https://arxiv.org/abs/2605.22235)
 - [Engineering Hybrid Physics-Informed Neural Networks for Next-Generation Electricity Systems: A State-of-the-Art Review](https://arxiv.org/abs/2605.21903)
+- [Learning partially observed systems with neural Hamiltonian ordinary differential equations](https://arxiv.org/abs/2605.23510)
+- [Coupling-Robust Accuracy in Multiphysics Physics Informed Neural Networks via Kronecker-Preconditioned Optimization](https://arxiv.org/abs/2605.23391)
+- [Physics-informed sparse identification-based tube model predictive control for aerial vehicles](https://arxiv.org/abs/2605.23354)
 
 
 ## Library
