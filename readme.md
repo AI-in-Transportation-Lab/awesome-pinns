@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-May 27, 2026 at 03:34:50 AM UTC
+May 28, 2026 at 02:54:11 AM UTC
 
 
 ## Theorem
 
-## Papers (847)
+## Papers (850)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -881,6 +881,9 @@ May 27, 2026 at 03:34:50 AM UTC
 - [Neural Autoregressive Control Variates for the Quantum Monte Carlo Sign Problem](https://arxiv.org/abs/2605.26814)
 - [Deep Learning-based Algebraic Reynolds Stress Closures for RANS Simulations of Turbulent Flows](https://arxiv.org/abs/2605.26358)
 - [Minimal surfaces, Knots, and Neural Networks](https://arxiv.org/abs/2605.26234)
+- [Sinc Kolmogorov-Arnold network and its application for solving PDEs with singularities](https://arxiv.org/abs/2410.04096)
+- [Accelerating Natural Gradient Descent for PINNs with Randomized Numerical Linear Algebra](https://arxiv.org/abs/2505.11638)
+- [Faster Thermal Profiling of a Lunar Rover with Machine Learning Adapted Finite Difference Model](https://arxiv.org/abs/2605.27651)
 
 
 ## Library
