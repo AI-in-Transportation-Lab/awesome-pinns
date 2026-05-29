@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-May 28, 2026 at 02:54:11 AM UTC
+May 29, 2026 at 02:58:34 AM UTC
 
 
 ## Theorem
 
-## Papers (850)
+## Papers (855)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -884,6 +884,11 @@ May 28, 2026 at 02:54:11 AM UTC
 - [Sinc Kolmogorov-Arnold network and its application for solving PDEs with singularities](https://arxiv.org/abs/2410.04096)
 - [Accelerating Natural Gradient Descent for PINNs with Randomized Numerical Linear Algebra](https://arxiv.org/abs/2505.11638)
 - [Faster Thermal Profiling of a Lunar Rover with Machine Learning Adapted Finite Difference Model](https://arxiv.org/abs/2605.27651)
+- [IGA-ODIL: Optimizing DIscretre robust Loss with Isogeometric Analysis to solve forward and inverse problems faster using machine learning tools](https://arxiv.org/abs/2605.30272)
+- [Reducing Experimental Testing in Space Propulsion Film Cooling Analyses by Pixelwise Generative Image Interpolation](https://arxiv.org/abs/2605.29911)
+- [A Novel Tensor Product-Based Neural Network for Solving Partial Differential Equations](https://arxiv.org/abs/2605.29688)
+- [Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization](https://arxiv.org/abs/2605.29153)
+- [An End-to-End PyTorch Interface for Differentiable PDE Solvers: A RANS Model-Correction Study](https://arxiv.org/abs/2605.28858)
 
 
 ## Library
