@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-May 31, 2026 at 03:35:52 AM UTC
+June 1, 2026 at 03:50:21 AM UTC
 
 
 ## Theorem
 
-## Papers (855)
+## Papers (859)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -889,6 +889,10 @@ May 31, 2026 at 03:35:52 AM UTC
 - [A Novel Tensor Product-Based Neural Network for Solving Partial Differential Equations](https://arxiv.org/abs/2605.29688)
 - [Unveiling Multi-regime Patterns in SciML: Distinct Failure Modes and Regime-specific Optimization](https://arxiv.org/abs/2605.29153)
 - [An End-to-End PyTorch Interface for Differentiable PDE Solvers: A RANS Model-Correction Study](https://arxiv.org/abs/2605.28858)
+- [A holomorphic neural network framework for 3D boundary value problems governed by harmonic potentials](https://arxiv.org/abs/2605.31231)
+- [Riemannian Diffusion Models on General Manifolds via Physics-Informed Neural Networks](https://arxiv.org/abs/2605.31106)
+- [Multi-Scale Separable Fourier Neural Networks for Solving High-Frequency PDEs](https://arxiv.org/abs/2605.31027)
+- [PINNs Failure Modes are Overfitting](https://arxiv.org/abs/2605.30910)
 
 
 ## Library
