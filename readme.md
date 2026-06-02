@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-June 1, 2026 at 03:50:21 AM UTC
+June 2, 2026 at 03:43:25 AM UTC
 
 
 ## Theorem
 
-## Papers (859)
+## Papers (865)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -893,6 +893,12 @@ June 1, 2026 at 03:50:21 AM UTC
 - [Riemannian Diffusion Models on General Manifolds via Physics-Informed Neural Networks](https://arxiv.org/abs/2605.31106)
 - [Multi-Scale Separable Fourier Neural Networks for Solving High-Frequency PDEs](https://arxiv.org/abs/2605.31027)
 - [PINNs Failure Modes are Overfitting](https://arxiv.org/abs/2605.30910)
+- [Physics-Informed Deep Learning for Entropy Prediction in Heterogeneous Systems: Thermodynamic and Information-Theoretic Case Studies](https://arxiv.org/abs/2606.01179)
+- [Accelerating physics-informed neural networks for full waveform inversion using a hybrid quantum-classical finite-basis architecture](https://arxiv.org/abs/2606.01110)
+- [MedGym:A Unified Continuous-Time Benchmark for Dynamic Medical Treatment Reinforcement Learning](https://arxiv.org/abs/2606.01028)
+- [Toward accurate RUL and SoH estimation using reinforced graph-based physics-informed neural networks enhanced with dynamic weights](https://arxiv.org/abs/2507.09766)
+- [Taming the Loss Landscape of PINNs with Noisy Feynman-Kac Supervision: Operator Preconditioning and Non-Asymptotic Error Bounds](https://arxiv.org/abs/2606.00643)
+- [Physics-Informed Neural Networks for Radial Consolidation of Combined Electroosmotic, Vacuum and Surcharge Preloading Considering Smear Effects](https://arxiv.org/abs/2606.00056)
 
 
 ## Library
