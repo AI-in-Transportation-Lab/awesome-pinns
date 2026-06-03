@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-June 2, 2026 at 03:43:25 AM UTC
+June 3, 2026 at 03:52:35 AM UTC
 
 
 ## Theorem
 
-## Papers (865)
+## Papers (870)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -899,6 +899,11 @@ June 2, 2026 at 03:43:25 AM UTC
 - [Toward accurate RUL and SoH estimation using reinforced graph-based physics-informed neural networks enhanced with dynamic weights](https://arxiv.org/abs/2507.09766)
 - [Taming the Loss Landscape of PINNs with Noisy Feynman-Kac Supervision: Operator Preconditioning and Non-Asymptotic Error Bounds](https://arxiv.org/abs/2606.00643)
 - [Physics-Informed Neural Networks for Radial Consolidation of Combined Electroosmotic, Vacuum and Surcharge Preloading Considering Smear Effects](https://arxiv.org/abs/2606.00056)
+- [PINNfluence: Interpreting PINNs through Influence Functions](https://arxiv.org/abs/2409.08958)
+- [MAdam: Metric-Aware Multi-Objective Adam](https://arxiv.org/abs/2606.03904)
+- [Lagrangian-Eulerian learning of flow field and trajectories with TrajectoryFlowNet](https://arxiv.org/abs/2507.09621)
+- [Critical evaluation of PINN for FWD inverse analysis and differentiable FEM as an alternative](https://arxiv.org/abs/2606.03210)
+- [Oscillatory State-Space Models as Inductive Biases for Physics-Informed Neural PDE Solvers](https://arxiv.org/abs/2606.02623)
 
 
 ## Library
