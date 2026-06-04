@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-June 3, 2026 at 03:52:35 AM UTC
+June 4, 2026 at 03:46:10 AM UTC
 
 
 ## Theorem
 
-## Papers (870)
+## Papers (873)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -904,6 +904,9 @@ June 3, 2026 at 03:52:35 AM UTC
 - [Lagrangian-Eulerian learning of flow field and trajectories with TrajectoryFlowNet](https://arxiv.org/abs/2507.09621)
 - [Critical evaluation of PINN for FWD inverse analysis and differentiable FEM as an alternative](https://arxiv.org/abs/2606.03210)
 - [Oscillatory State-Space Models as Inductive Biases for Physics-Informed Neural PDE Solvers](https://arxiv.org/abs/2606.02623)
+- [Curvature-aware dynamic precision approach for physics-informed neural networks](https://arxiv.org/abs/2606.04736)
+- [Loss-Conditional PINNs for Parametric PDE Families](https://arxiv.org/abs/2606.04420)
+- [SPLIT-PINN: Separable Probability Learning Technique via Physics-Informed Neural Networks for High-Dimensional Probabilistic Modeling](https://arxiv.org/abs/2606.04000)
 
 
 ## Library
