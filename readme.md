@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-June 4, 2026 at 03:46:10 AM UTC
+June 5, 2026 at 03:34:08 AM UTC
 
 
 ## Theorem
 
-## Papers (873)
+## Papers (877)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -907,6 +907,10 @@ June 4, 2026 at 03:46:10 AM UTC
 - [Curvature-aware dynamic precision approach for physics-informed neural networks](https://arxiv.org/abs/2606.04736)
 - [Loss-Conditional PINNs for Parametric PDE Families](https://arxiv.org/abs/2606.04420)
 - [SPLIT-PINN: Separable Probability Learning Technique via Physics-Informed Neural Networks for High-Dimensional Probabilistic Modeling](https://arxiv.org/abs/2606.04000)
+- [DAS-PINNs for high-dimensional partial differential equations: extending deep adaptive sampling to spacetime domains](https://arxiv.org/abs/2606.06314)
+- [Wall Shear Stress Reconstruction from Concentration: Differentiable Physics and Physics-Informed Neural Networks](https://arxiv.org/abs/2606.06313)
+- [Effective Dimensionality as an Operator Invariant for Physics-Preserving Constraint Adaptation in Physics-Informed Neural Networks](https://arxiv.org/abs/2606.06171)
+- [On the training of physics-informed neural operators for solving parametric partial differential equations](https://arxiv.org/abs/2606.06164)
 
 
 ## Library
