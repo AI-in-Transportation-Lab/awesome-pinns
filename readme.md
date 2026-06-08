@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-June 7, 2026 at 03:39:38 AM UTC
+June 8, 2026 at 03:44:41 AM UTC
 
 
 ## Theorem
 
-## Papers (877)
+## Papers (878)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -911,6 +911,7 @@ June 7, 2026 at 03:39:38 AM UTC
 - [Wall Shear Stress Reconstruction from Concentration: Differentiable Physics and Physics-Informed Neural Networks](https://arxiv.org/abs/2606.06313)
 - [Effective Dimensionality as an Operator Invariant for Physics-Preserving Constraint Adaptation in Physics-Informed Neural Networks](https://arxiv.org/abs/2606.06171)
 - [On the training of physics-informed neural operators for solving parametric partial differential equations](https://arxiv.org/abs/2606.06164)
+- [On the Effect of Neural Field Reparameterization for 4DVAR](https://arxiv.org/abs/2509.21751)
 
 
 ## Library
