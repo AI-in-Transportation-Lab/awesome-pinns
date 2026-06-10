@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-June 9, 2026 at 02:52:52 AM UTC
+June 10, 2026 at 03:31:00 AM UTC
 
 
 ## Theorem
 
-## Papers (881)
+## Papers (887)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -915,6 +915,12 @@ June 9, 2026 at 02:52:52 AM UTC
 - [Stochastic Dimension Implicit Functional Projections for Global Integral Conservation in High-Dimensional PINNs](https://arxiv.org/abs/2603.29237)
 - [Sound Field Interpolation Using Physics-Informed Extreme Learning Machine with Pre-Training](https://arxiv.org/abs/2606.08435)
 - [Knowledge-Inclusive Adaptive Physics-Informed Neural Network for Microbial Interaction Modelling](https://arxiv.org/abs/2606.07686)
+- [Non-linear mechanical field reconstruction coupling recurrent neural networks with physics-informed graph neural networks](https://arxiv.org/abs/2606.10909)
+- [An adaptive framework for the axisymmetric pulsar magnetosphere using physics-informed Kolmogorov-Arnold networks](https://arxiv.org/abs/2606.10686)
+- [PL-KKT-hPINN: Enforcing Nonlinear Equality Constraints on Neural Networks via Piecewise-Linear Projection](https://arxiv.org/abs/2606.10682)
+- [Accelerating SAV-based optimization via randomized low-rank Hessian approximation](https://arxiv.org/abs/2606.10562)
+- [Integrating Biological-Informed Recurrent Neural Networks for Glucose-Insulin Dynamics Modeling](https://arxiv.org/abs/2503.19158)
+- [Flow-based generative models for amortized Bayesian inference in regression and inverse PDE problems](https://arxiv.org/abs/2606.10370)
 
 
 ## Library
