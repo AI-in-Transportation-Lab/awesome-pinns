@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-June 14, 2026 at 03:50:07 AM UTC
+June 15, 2026 at 04:02:11 AM UTC
 
 
 ## Theorem
 
-## Papers (894)
+## Papers (895)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -928,6 +928,7 @@ June 14, 2026 at 03:50:07 AM UTC
 - [Loss Landscape Diagnosis for Gradient-Based Gray-Scott System Inversion: Disentangling the Roles of PINN Components](https://arxiv.org/abs/2606.11258)
 - [Physics-Informed Neural Networks and Radial Basis Functions for PDEs with Dirac Delta Sources](https://arxiv.org/abs/2606.12735)
 - [Physics-Informed Neural Networks for Chemotherapy Pharmacokinetics: Benchmarking the Clinical Estimator and Exposing Parameter Identifiability](https://arxiv.org/abs/2606.12658)
+- [Robin-Neumann Coupling of PINN and FEM Solvers: A Steklov-Poincaré View, with Application to Fluid-Structure Interaction with Contact](https://arxiv.org/abs/2606.14181)
 
 
 ## Library
