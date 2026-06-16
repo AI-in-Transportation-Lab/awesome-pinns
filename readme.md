@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-June 15, 2026 at 04:02:11 AM UTC
+June 16, 2026 at 03:52:41 AM UTC
 
 
 ## Theorem
 
-## Papers (895)
+## Papers (901)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -929,6 +929,12 @@ June 15, 2026 at 04:02:11 AM UTC
 - [Physics-Informed Neural Networks and Radial Basis Functions for PDEs with Dirac Delta Sources](https://arxiv.org/abs/2606.12735)
 - [Physics-Informed Neural Networks for Chemotherapy Pharmacokinetics: Benchmarking the Clinical Estimator and Exposing Parameter Identifiability](https://arxiv.org/abs/2606.12658)
 - [Robin-Neumann Coupling of PINN and FEM Solvers: A Steklov-Poincaré View, with Application to Fluid-Structure Interaction with Contact](https://arxiv.org/abs/2606.14181)
+- [RepNet: Tackling spectral bias in deep neural networks via parameter reparameterization](https://arxiv.org/abs/2606.16575)
+- [Petrov-Galerkin Variational Physics-Informed Neural Network Framework for Two-Dimensional Singularly Perturbed Problems](https://arxiv.org/abs/2606.16510)
+- [Neural network inverse design of nanophotonic scintillators](https://arxiv.org/abs/2606.16309)
+- [Dual-Network PINNs for Optimal Control: A Reproducible Benchmark on the Mass-Spring-Damper System](https://arxiv.org/abs/2606.15271)
+- [A Koopman-PINN Framework for Epidemic Models: Parameter Inference and Forecasting](https://arxiv.org/abs/2606.15201)
+- [Random Gradient-Free Optimization in Infinite Dimensional Spaces](https://arxiv.org/abs/2512.20566)
 
 
 ## Library
