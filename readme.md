@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-June 16, 2026 at 03:52:41 AM UTC
+June 17, 2026 at 03:54:59 AM UTC
 
 
 ## Theorem
 
-## Papers (901)
+## Papers (904)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -935,6 +935,9 @@ June 16, 2026 at 03:52:41 AM UTC
 - [Dual-Network PINNs for Optimal Control: A Reproducible Benchmark on the Mass-Spring-Damper System](https://arxiv.org/abs/2606.15271)
 - [A Koopman-PINN Framework for Epidemic Models: Parameter Inference and Forecasting](https://arxiv.org/abs/2606.15201)
 - [Random Gradient-Free Optimization in Infinite Dimensional Spaces](https://arxiv.org/abs/2512.20566)
+- [A Convex Quasilinearization Method for Solving Nonlinear PDEs with Physics-Informed Neural Networks](https://arxiv.org/abs/2606.18175)
+- [INI-VPINN: A Variational Physics-Informed Neural Network with Implicit Neumann and Interface Handling for Multi-Material Domains with Geometric Singularities](https://arxiv.org/abs/2606.18032)
+- [Implicit Neural Representations Framework for One-Dimensional Magnetotelluric Inversion](https://arxiv.org/abs/2606.17069)
 
 
 ## Library
