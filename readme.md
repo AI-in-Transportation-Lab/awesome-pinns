@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-June 18, 2026 at 03:41:24 AM UTC
+June 19, 2026 at 04:05:29 AM UTC
 
 
 ## Theorem
 
-## Papers (908)
+## Papers (916)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -942,6 +942,14 @@ June 18, 2026 at 03:41:24 AM UTC
 - [A Neural Network Framework for Geodesic-Like Curve Computation on Parametric Surfaces](https://arxiv.org/abs/2606.18759)
 - [Trainable Photonic Measurement for Physics-Informed PDE Learning](https://arxiv.org/abs/2606.18713)
 - [Enhancing neural network extrapolation in thermo-fluid systems using steady-state solutions](https://arxiv.org/abs/2606.18417)
+- [Evolutionary Two-Stage Hyperparameter Optimization Strategies for Physics-Informed Neural Networks](https://arxiv.org/abs/2606.20442)
+- [Quantum-classical physics-informed Kolmogorov-Arnold networks for PDEs](https://arxiv.org/abs/2606.20326)
+- [RepNN: Tackling spectral bias in deep neural networks via parameter reparameterization](https://arxiv.org/abs/2606.16575)
+- [Physics-Informed Neural Network with Squeeze-Excitation-like Attention](https://arxiv.org/abs/2606.19853)
+- [Learning universal approximations for partial differential equations with Physics-Informed Broad Learning System](https://arxiv.org/abs/2606.19754)
+- [Advances in Scientific Machine Learning for Coupled Fluid Flow and Transport](https://arxiv.org/abs/2606.19562)
+- [A Hybrid GNN-FEM Framework for Phase-Field Fracture Simulation. Physics-Preserving Hybridization for Generalizable Surrogate Modeling](https://arxiv.org/abs/2606.19378)
+- [Neural Architectures as Functional Priors in Physics-Informed Control Problems](https://arxiv.org/abs/2606.19368)
 
 
 ## Library
