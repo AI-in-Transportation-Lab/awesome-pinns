@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-June 22, 2026 at 03:59:32 AM UTC
+June 23, 2026 at 02:57:24 AM UTC
 
 
 ## Theorem
 
-## Papers (916)
+## Papers (920)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -950,6 +950,10 @@ June 22, 2026 at 03:59:32 AM UTC
 - [Advances in Scientific Machine Learning for Coupled Fluid Flow and Transport](https://arxiv.org/abs/2606.19562)
 - [A Hybrid GNN-FEM Framework for Phase-Field Fracture Simulation. Physics-Preserving Hybridization for Generalizable Surrogate Modeling](https://arxiv.org/abs/2606.19378)
 - [Neural Architectures as Functional Priors in Physics-Informed Control Problems](https://arxiv.org/abs/2606.19368)
+- [Beyond Data-Driven: How Physics-Informed Neural Networks are Reshaping Multi-Physics Design and Discovery](https://arxiv.org/abs/2606.21945)
+- [Physics-Informed Neural Networks for Computing the Morse Index of the Critical Catenoid](https://arxiv.org/abs/2606.21725)
+- [Enhancing Symbolic Regression and Universal Physics-Informed Neural Networks with Dimensional Analysis](https://arxiv.org/abs/2411.15919)
+- [Mixture-of-Experts Graph Transformers for Interpretable Particle Collision Detection](https://arxiv.org/abs/2501.03432)
 
 
 ## Library
