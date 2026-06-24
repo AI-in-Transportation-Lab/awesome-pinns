@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-June 23, 2026 at 02:57:24 AM UTC
+June 24, 2026 at 02:59:24 AM UTC
 
 
 ## Theorem
 
-## Papers (920)
+## Papers (924)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -954,6 +954,10 @@ June 23, 2026 at 02:57:24 AM UTC
 - [Physics-Informed Neural Networks for Computing the Morse Index of the Critical Catenoid](https://arxiv.org/abs/2606.21725)
 - [Enhancing Symbolic Regression and Universal Physics-Informed Neural Networks with Dimensional Analysis](https://arxiv.org/abs/2411.15919)
 - [Mixture-of-Experts Graph Transformers for Interpretable Particle Collision Detection](https://arxiv.org/abs/2501.03432)
+- [Extended pseudo-spectral physics-informed neural networks for phase-field models](https://arxiv.org/abs/2606.24660)
+- [It's Much Easier for Neural Networks to learn Game of Life Dynamics with the Right Activation Function: Polynomial Kolmogorov-Arnold Networks](https://arxiv.org/abs/2606.23587)
+- [Physics-Informed Modeling for Wood Thermal Analysis and Prediction](https://arxiv.org/abs/2606.23402)
+- [Adaptive Hard-Soft Physics-Informed Neural Networks for Robust Boundary-Constrained PDE Solving](https://arxiv.org/abs/2606.23359)
 
 
 ## Library
