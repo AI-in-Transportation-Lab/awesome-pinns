@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-June 24, 2026 at 02:59:24 AM UTC
+June 25, 2026 at 02:57:47 AM UTC
 
 
 ## Theorem
 
-## Papers (924)
+## Papers (926)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -958,6 +958,8 @@ June 24, 2026 at 02:59:24 AM UTC
 - [It's Much Easier for Neural Networks to learn Game of Life Dynamics with the Right Activation Function: Polynomial Kolmogorov-Arnold Networks](https://arxiv.org/abs/2606.23587)
 - [Physics-Informed Modeling for Wood Thermal Analysis and Prediction](https://arxiv.org/abs/2606.23402)
 - [Adaptive Hard-Soft Physics-Informed Neural Networks for Robust Boundary-Constrained PDE Solving](https://arxiv.org/abs/2606.23359)
+- [Active Learning for Optimal Experimental Design in Machine Learning-Based Building Energy System Identification](https://arxiv.org/abs/2606.25301)
+- [Silent Failures in Physics-Informed Neural Networks: Parameter Poisoning and the Limits of Loss-Based Validation](https://arxiv.org/abs/2606.25151)
 
 
 ## Library
