@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-June 28, 2026 at 03:34:47 AM UTC
+June 29, 2026 at 03:39:23 AM UTC
 
 
 ## Theorem
 
-## Papers (926)
+## Papers (929)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -960,6 +960,9 @@ June 28, 2026 at 03:34:47 AM UTC
 - [Adaptive Hard-Soft Physics-Informed Neural Networks for Robust Boundary-Constrained PDE Solving](https://arxiv.org/abs/2606.23359)
 - [Active Learning for Optimal Experimental Design in Machine Learning-Based Building Energy System Identification](https://arxiv.org/abs/2606.25301)
 - [Silent Failures in Physics-Informed Neural Networks: Parameter Poisoning and the Limits of Loss-Based Validation](https://arxiv.org/abs/2606.25151)
+- [Physics-Informed Neural Network with Transfer Learning for State Estimation in Lithium-Ion Batteries using the Single Particle Model with Electrolyte](https://arxiv.org/abs/2606.28220)
+- [Recovering Sharp Conductivity Features in the Finite-Data Calderón Problem with Physics-Informed Neural Networks](https://arxiv.org/abs/2606.28158)
+- [LieSolver: PDE-Constrained Learning for IBVPs via Lie Symmetries](https://arxiv.org/abs/2510.25731)
 
 
 ## Library
