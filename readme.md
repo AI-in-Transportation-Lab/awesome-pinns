@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-June 29, 2026 at 03:39:23 AM UTC
+June 30, 2026 at 03:28:08 AM UTC
 
 
 ## Theorem
 
-## Papers (929)
+## Papers (933)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -963,6 +963,10 @@ June 29, 2026 at 03:39:23 AM UTC
 - [Physics-Informed Neural Network with Transfer Learning for State Estimation in Lithium-Ion Batteries using the Single Particle Model with Electrolyte](https://arxiv.org/abs/2606.28220)
 - [Recovering Sharp Conductivity Features in the Finite-Data Calderón Problem with Physics-Informed Neural Networks](https://arxiv.org/abs/2606.28158)
 - [LieSolver: PDE-Constrained Learning for IBVPs via Lie Symmetries](https://arxiv.org/abs/2510.25731)
+- [Gravitational Duals from Equations of State II: Large Hierarchies and False Vacua](https://arxiv.org/abs/2606.30117)
+- [Hard-constraint physics-residual networks for hydrogen crossover prediction and high-pressure extrapolation in PEM water electrolysis](https://arxiv.org/abs/2511.05879)
+- [Evaluating Newtonian Mechanics in Video Generative Models with Real Physical Systems](https://arxiv.org/abs/2504.02918)
+- [On Surrogate Modeling of Static Response of AM Short-Fiber Thermoplastics Using Graph Neural Networks](https://arxiv.org/abs/2606.28996)
 
 
 ## Library
