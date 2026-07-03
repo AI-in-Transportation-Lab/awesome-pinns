@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-July 2, 2026 at 03:21:33 AM UTC
+July 3, 2026 at 02:44:51 AM UTC
 
 
 ## Theorem
 
-## Papers (935)
+## Papers (938)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -969,6 +969,9 @@ July 2, 2026 at 03:21:33 AM UTC
 - [On Surrogate Modeling of Static Response of AM Short-Fiber Thermoplastics Using Graph Neural Networks](https://arxiv.org/abs/2606.28996)
 - [Profiling systematic uncertainties in Simulation-Based Inference with Factorizable Normalizing Flows](https://arxiv.org/abs/2602.13184)
 - [On-Demand Coherent Nanolaser Metalens and Beam Steering Enabled by Physics-Informed Neural Networks](https://arxiv.org/abs/2607.00739)
+- [Self-explainable Operator Learning for Discovering Spatial Patterns in Functional Data](https://arxiv.org/abs/2607.02203)
+- [An Optimisation Framework for the Well-Conditioned Training of Physics-Informed Neural Networks](https://arxiv.org/abs/2607.02194)
+- [Frequency Shift Physics-Informed Extreme Learning Machine for Solving High-Frequency Partial Differential Equations](https://arxiv.org/abs/2607.01694)
 
 
 ## Library
