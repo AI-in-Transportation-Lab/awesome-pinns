@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-July 6, 2026 at 02:57:57 AM UTC
+July 7, 2026 at 02:51:52 AM UTC
 
 
 ## Theorem
 
-## Papers (938)
+## Papers (943)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -972,6 +972,11 @@ July 6, 2026 at 02:57:57 AM UTC
 - [Self-explainable Operator Learning for Discovering Spatial Patterns in Functional Data](https://arxiv.org/abs/2607.02203)
 - [An Optimisation Framework for the Well-Conditioned Training of Physics-Informed Neural Networks](https://arxiv.org/abs/2607.02194)
 - [Frequency Shift Physics-Informed Extreme Learning Machine for Solving High-Frequency Partial Differential Equations](https://arxiv.org/abs/2607.01694)
+- [Learning rate adaptive stochastic gradient descent optimization methods: numerical simulations for deep learning methods for partial differential equations and convergence analyses](https://arxiv.org/abs/2406.14340)
+- [LRX-PINN: A Layer-Resolving XNet Physics-Informed Neural Network with Integrated Cauchy Activations for Convection-Dominated Problems](https://arxiv.org/abs/2607.03682)
+- [Convergence of Stochastic Gradient Methods for Wide Two-Layer Physics-Informed Neural Networks for the Poisson Equation](https://arxiv.org/abs/2508.21571)
+- [Integrating Physics-Informed Neural Networks for Safe Reinforcement Learning in a 1-DoF Helicopter System](https://arxiv.org/abs/2607.03125)
+- [Physics-Informed Domain-Invariant Feature Learning with Autoencoder-Driven Gaussian Clustering for Robust Non-line-of-Sight Scenarios](https://arxiv.org/abs/2607.02537)
 
 
 ## Library
