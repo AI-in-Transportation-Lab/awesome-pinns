@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-July 8, 2026 at 02:28:23 AM UTC
+July 9, 2026 at 02:44:15 AM UTC
 
 
 ## Theorem
 
-## Papers (944)
+## Papers (947)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -978,6 +978,9 @@ July 8, 2026 at 02:28:23 AM UTC
 - [Integrating Physics-Informed Neural Networks for Safe Reinforcement Learning in a 1-DoF Helicopter System](https://arxiv.org/abs/2607.03125)
 - [Physics-Informed Domain-Invariant Feature Learning with Autoencoder-Driven Gaussian Clustering for Robust Non-line-of-Sight Scenarios](https://arxiv.org/abs/2607.02537)
 - [Target-Guided Selective Reweighting for Physics-Informed Neural Network Inverse Problems: A Transfer Learning Approach](https://arxiv.org/abs/2607.05271)
+- [Higher-Order Geometric Updates for Levenberg-Marquardt Method via Riemann Normal Coordinates](https://arxiv.org/abs/2607.07623)
+- [Machine Learning Materials Properties by Encoding Orbital-Projected Density of States](https://arxiv.org/abs/2607.07339)
+- [The Generalization Gap in Machine Learning EoS Inference from Core-Collapse Supernova Gravitational Waves](https://arxiv.org/abs/2607.06736)
 
 
 ## Library
