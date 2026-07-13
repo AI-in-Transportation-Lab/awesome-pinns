@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-July 12, 2026 at 02:31:40 AM UTC
+July 13, 2026 at 02:33:38 AM UTC
 
 
 ## Theorem
 
-## Papers (947)
+## Papers (948)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -981,6 +981,7 @@ July 12, 2026 at 02:31:40 AM UTC
 - [Higher-Order Geometric Updates for Levenberg-Marquardt Method via Riemann Normal Coordinates](https://arxiv.org/abs/2607.07623)
 - [Machine Learning Materials Properties by Encoding Orbital-Projected Density of States](https://arxiv.org/abs/2607.07339)
 - [The Generalization Gap in Machine Learning EoS Inference from Core-Collapse Supernova Gravitational Waves](https://arxiv.org/abs/2607.06736)
+- [Inertia-Aware Optimal Power Flow Using PINN in IBR-Dominated Power Systems](https://arxiv.org/abs/2607.09297)
 
 
 ## Library
