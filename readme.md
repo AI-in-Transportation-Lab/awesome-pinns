@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-July 13, 2026 at 02:33:38 AM UTC
+July 14, 2026 at 02:12:24 AM UTC
 
 
 ## Theorem
 
-## Papers (948)
+## Papers (954)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -982,6 +982,12 @@ July 13, 2026 at 02:33:38 AM UTC
 - [Machine Learning Materials Properties by Encoding Orbital-Projected Density of States](https://arxiv.org/abs/2607.07339)
 - [The Generalization Gap in Machine Learning EoS Inference from Core-Collapse Supernova Gravitational Waves](https://arxiv.org/abs/2607.06736)
 - [Inertia-Aware Optimal Power Flow Using PINN in IBR-Dominated Power Systems](https://arxiv.org/abs/2607.09297)
+- [SPARC-Net: A Spectral, Causality-Aware, and Hard-Constrained Physics-Informed Architecture for Stiff and Shock-Dominated Partial Differential Equations](https://arxiv.org/abs/2607.11310)
+- [Multi-dimensional training-priority weighting based on physical information propagation paths: a unified residual-weighting framework for physics-informed neural networks](https://arxiv.org/abs/2607.11094)
+- [SpectraSensML Software: Mastering Complete Spectral Information for Luminescence Thermometry 2.0](https://arxiv.org/abs/2607.10807)
+- [The evolution of AI from image interpretation toward scientific inference in nanoparticle electron microscopy](https://arxiv.org/abs/2607.10388)
+- [The Differential Neural Tangent Kernel and Its Positivity](https://arxiv.org/abs/2607.10200)
+- [Anisotropic representations for E(3)-equivariant machine learning coarse-grained potentials](https://arxiv.org/abs/2607.10002)
 
 
 ## Library
