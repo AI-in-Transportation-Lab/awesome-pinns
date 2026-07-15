@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-July 14, 2026 at 02:12:24 AM UTC
+July 15, 2026 at 02:10:43 AM UTC
 
 
 ## Theorem
 
-## Papers (954)
+## Papers (956)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -988,6 +988,8 @@ July 14, 2026 at 02:12:24 AM UTC
 - [The evolution of AI from image interpretation toward scientific inference in nanoparticle electron microscopy](https://arxiv.org/abs/2607.10388)
 - [The Differential Neural Tangent Kernel and Its Positivity](https://arxiv.org/abs/2607.10200)
 - [Anisotropic representations for E(3)-equivariant machine learning coarse-grained potentials](https://arxiv.org/abs/2607.10002)
+- [Constraining the High-Density Equation of State with Present and Future NICER Observations Using Physics-Informed Regularized Machine Learning](https://arxiv.org/abs/2607.12722)
+- [PolarBM: Complex-valued Boltzmann Machine for Modeling Audio Signals in Polar and Log-polar Coordinates](https://arxiv.org/abs/2607.12417)
 
 
 ## Library
