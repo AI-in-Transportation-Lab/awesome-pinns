@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-July 20, 2026 at 02:43:30 AM UTC
+July 21, 2026 at 02:27:03 AM UTC
 
 
 ## Theorem
 
-## Papers (961)
+## Papers (964)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -995,6 +995,9 @@ July 20, 2026 at 02:43:30 AM UTC
 - [Probabilistic Physics-Informed Neural Networks for Estimating Heterogeneous Elastic Properties from Low-Resolution and Noisy Displacement Data](https://arxiv.org/abs/2607.14563)
 - [LIGO-PINN: Learned Initialization via Gated Optimization to Alleviate Convergence Failures in Physics Informed Neural Networks](https://arxiv.org/abs/2607.14233)
 - [Trainable Spline Representations for Physics-Informed Learning](https://arxiv.org/abs/2607.15751)
+- [FlashPDE: A Drop-in Fused Triton Operator Library for Neural PDE Solvers](https://arxiv.org/abs/2607.18020)
+- [Stochastic Dimension Zeroth-Order Estimator: Stable and Memory-Efficient Training of PINNs](https://arxiv.org/abs/2603.24002)
+- [Neural operator preconditioning from mixed dataset for the Helmholtz equations: Application to transcranial ultrasound](https://arxiv.org/abs/2607.16906)
 
 
 ## Library
