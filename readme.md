@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-July 23, 2026 at 02:30:40 AM UTC
+July 24, 2026 at 02:27:38 AM UTC
 
 
 ## Theorem
 
-## Papers (966)
+## Papers (969)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1000,6 +1000,9 @@ July 23, 2026 at 02:30:40 AM UTC
 - [Neural operator preconditioning from mixed dataset for the Helmholtz equations: Application to transcranial ultrasound](https://arxiv.org/abs/2607.16906)
 - [Boundary-Adapted PINNs for Elliptic Dirichlet Problems: H^2(Ω)H^2(Ω) A Priori Error Bounds with Application to Mean Escape Time Computation](https://arxiv.org/abs/2607.19167)
 - [Reliability-Aware Hard--Soft Physics-Informed Neural Networks for Robust Learning of Challenging Partial Differential Equations](https://arxiv.org/abs/2607.19377)
+- [FlashPDE: A Drop-In Fused Triton Operator Library for Neural PDE Solvers](https://arxiv.org/abs/2607.18020)
+- [Multilevel Graph Wavelet Compressed Sensing with Scale-Aware Neural Recovery](https://arxiv.org/abs/2607.20857)
+- [A Graph Neural Network approach to zero-shot Digital Twins](https://arxiv.org/abs/2607.20535)
 
 
 ## Library
