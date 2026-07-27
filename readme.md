@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-July 26, 2026 at 02:33:02 AM UTC
+July 27, 2026 at 02:40:25 AM UTC
 
 
 ## Theorem
 
-## Papers (969)
+## Papers (970)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1003,6 +1003,7 @@ July 26, 2026 at 02:33:02 AM UTC
 - [FlashPDE: A Drop-In Fused Triton Operator Library for Neural PDE Solvers](https://arxiv.org/abs/2607.18020)
 - [Multilevel Graph Wavelet Compressed Sensing with Scale-Aware Neural Recovery](https://arxiv.org/abs/2607.20857)
 - [A Graph Neural Network approach to zero-shot Digital Twins](https://arxiv.org/abs/2607.20535)
+- [Latent PDE mapping for efficient physics-informed learning across geometries with limited data](https://arxiv.org/abs/2607.22215)
 
 
 ## Library
