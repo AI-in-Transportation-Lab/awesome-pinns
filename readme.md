@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-July 27, 2026 at 02:40:25 AM UTC
+July 28, 2026 at 02:20:50 AM UTC
 
 
 ## Theorem
 
-## Papers (970)
+## Papers (977)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1004,6 +1004,13 @@ July 27, 2026 at 02:40:25 AM UTC
 - [Multilevel Graph Wavelet Compressed Sensing with Scale-Aware Neural Recovery](https://arxiv.org/abs/2607.20857)
 - [A Graph Neural Network approach to zero-shot Digital Twins](https://arxiv.org/abs/2607.20535)
 - [Latent PDE mapping for efficient physics-informed learning across geometries with limited data](https://arxiv.org/abs/2607.22215)
+- [Global Convergence of DGM and PINN Algorithms for Solving Nonlinear PDEs](https://arxiv.org/abs/2607.24726)
+- [Variational Boosting for Physics-Informed Neural Networks](https://arxiv.org/abs/2607.23940)
+- [Physics-Informed Neural Networks for Predicting Nitrous Oxide Flux](https://arxiv.org/abs/2607.23880)
+- [Physics-Informed Neural Networks for Discovering Periodic Orbits in the Gravitational Three-Body Problem](https://arxiv.org/abs/2607.23501)
+- [Neural Representation of Minimal Surfaces](https://arxiv.org/abs/2607.23437)
+- [Performance of Krotov, PRONTO and PINN for optimal control of quantum gates](https://arxiv.org/abs/2607.23276)
+- [Stochastic Dynamics of the Two-Dimensional Low-to-High Transition System Driven by Multiplicative Noise](https://arxiv.org/abs/2607.23186)
 
 
 ## Library
