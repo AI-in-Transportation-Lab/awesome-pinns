@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-July 29, 2026 at 02:25:18 AM UTC
+July 30, 2026 at 02:06:49 AM UTC
 
 
 ## Theorem
 
-## Papers (978)
+## Papers (981)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1012,6 +1012,9 @@ July 29, 2026 at 02:25:18 AM UTC
 - [Performance of Krotov, PRONTO and PINN for optimal control of quantum gates](https://arxiv.org/abs/2607.23276)
 - [Stochastic Dynamics of the Two-Dimensional Low-to-High Transition System Driven by Multiplicative Noise](https://arxiv.org/abs/2607.23186)
 - [Physics-Informed Broad Learning System: An Efficient Backpropagation-Free Framework for Solving Partial Differential Equations](https://arxiv.org/abs/2607.25608)
+- [PIKS: Universal Physics-Informed Kernel Methods](https://arxiv.org/abs/2607.27062)
+- [Physics-Informed Graph Neural Networks for Robust AC-Optimal Power Flow](https://arxiv.org/abs/2410.04818)
+- [EvoPINN: Agentic Discovery of Executable Algorithms for Physics-Informed Neural Networks](https://arxiv.org/abs/2607.26490)
 
 
 ## Library
