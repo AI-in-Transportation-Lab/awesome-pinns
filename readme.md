@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-July 30, 2026 at 02:06:49 AM UTC
+July 31, 2026 at 02:35:02 AM UTC
 
 
 ## Theorem
 
-## Papers (981)
+## Papers (984)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1015,6 +1015,9 @@ July 30, 2026 at 02:06:49 AM UTC
 - [PIKS: Universal Physics-Informed Kernel Methods](https://arxiv.org/abs/2607.27062)
 - [Physics-Informed Graph Neural Networks for Robust AC-Optimal Power Flow](https://arxiv.org/abs/2410.04818)
 - [EvoPINN: Agentic Discovery of Executable Algorithms for Physics-Informed Neural Networks](https://arxiv.org/abs/2607.26490)
+- [Data-free neural PDE solvers based on Graph Neural Networks and weak forms](https://arxiv.org/abs/2607.27901)
+- [Event-Structured Physics-Informed Neural Networks for Differentiable Critical Clearing Boundaries](https://arxiv.org/abs/2607.27681)
+- [Unbiased Data-Driven Determination of the Nuclear Dipole Amplitude in the Color Glass Condensate](https://arxiv.org/abs/2607.27603)
 
 
 ## Library
