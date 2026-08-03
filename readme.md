@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-August 2, 2026 at 02:31:58 AM UTC
+August 3, 2026 at 02:34:10 AM UTC
 
 
 ## Theorem
 
-## Papers (984)
+## Papers (988)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1018,6 +1018,10 @@ August 2, 2026 at 02:31:58 AM UTC
 - [Data-free neural PDE solvers based on Graph Neural Networks and weak forms](https://arxiv.org/abs/2607.27901)
 - [Event-Structured Physics-Informed Neural Networks for Differentiable Critical Clearing Boundaries](https://arxiv.org/abs/2607.27681)
 - [Unbiased Data-Driven Determination of the Nuclear Dipole Amplitude in the Color Glass Condensate](https://arxiv.org/abs/2607.27603)
+- [Physics-structured cooperative neural network for baseline-free nuclear mass modeling](https://arxiv.org/abs/2603.09747)
+- [Feature Interaction Modeling for Physics-Informed Neural Networks and Neural Operators](https://arxiv.org/abs/2607.28762)
+- [A user's guide to PINNs in geometric analysis: lessons from the asymptotic Plateau problem](https://arxiv.org/abs/2607.28733)
+- [Deep Learning-Based Classification and Analysis of Pulsar Candidates in Fermi-LAT Unassociated Sources](https://arxiv.org/abs/2607.28723)
 
 
 ## Library
