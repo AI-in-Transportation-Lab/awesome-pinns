@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-August 3, 2026 at 02:34:10 AM UTC
+August 4, 2026 at 02:13:35 AM UTC
 
 
 ## Theorem
 
-## Papers (988)
+## Papers (992)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1022,6 +1022,10 @@ August 3, 2026 at 02:34:10 AM UTC
 - [Feature Interaction Modeling for Physics-Informed Neural Networks and Neural Operators](https://arxiv.org/abs/2607.28762)
 - [A user's guide to PINNs in geometric analysis: lessons from the asymptotic Plateau problem](https://arxiv.org/abs/2607.28733)
 - [Deep Learning-Based Classification and Analysis of Pulsar Candidates in Fermi-LAT Unassociated Sources](https://arxiv.org/abs/2607.28723)
+- [Perspectives on Tsallis Statistics for Artificial Intelligence](https://arxiv.org/abs/2608.01223)
+- [Physics-informed neural networks for two-dimensional wall-reactive solute dispersion in canonical shear flows](https://arxiv.org/abs/2608.00856)
+- [Adaptive Quantum Physics-Informed Neural Networks for Differential Equations with Applications to Fluid Dynamics](https://arxiv.org/abs/2608.00850)
+- [An Embedded RISC-V Evaluation of Kolmogorov--Arnold Networks in Hard-Constrained Recurrent Physics-Informed Models](https://arxiv.org/abs/2608.00737)
 
 
 ## Library
