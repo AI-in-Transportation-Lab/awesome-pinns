@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-August 5, 2026 at 02:12:30 AM UTC
+August 6, 2026 at 02:21:46 AM UTC
 
 
 ## Theorem
 
-## Papers (992)
+## Papers (996)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1026,6 +1026,10 @@ August 5, 2026 at 02:12:30 AM UTC
 - [Physics-informed neural networks for two-dimensional wall-reactive solute dispersion in canonical shear flows](https://arxiv.org/abs/2608.00856)
 - [Adaptive Quantum Physics-Informed Neural Networks for Differential Equations with Applications to Fluid Dynamics](https://arxiv.org/abs/2608.00850)
 - [An Embedded RISC-V Evaluation of Kolmogorov--Arnold Networks in Hard-Constrained Recurrent Physics-Informed Models](https://arxiv.org/abs/2608.00737)
+- [Continual-Learning Physics-Informed Neural Networks for Parameterized Partial Differential Equations](https://arxiv.org/abs/2608.04778)
+- [A 6G Integrated Sensing and Communication Framework for Railway Intrusion Detection and Collision Prediction](https://arxiv.org/abs/2608.04710)
+- [The RAIL Principles for Neurosymbolic AI: Reasoning, Assurances, Interfacing and Learning](https://arxiv.org/abs/2608.04285)
+- [From Non-Convex Self-Concordant Regularization to Scalable Quasi-Newton Training of PINNs](https://arxiv.org/abs/2608.04206)
 
 
 ## Library
