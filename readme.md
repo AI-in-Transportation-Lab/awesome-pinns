@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-August 6, 2026 at 02:21:46 AM UTC
+August 7, 2026 at 02:32:03 AM UTC
 
 
 ## Theorem
 
-## Papers (996)
+## Papers (998)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1030,6 +1030,8 @@ August 6, 2026 at 02:21:46 AM UTC
 - [A 6G Integrated Sensing and Communication Framework for Railway Intrusion Detection and Collision Prediction](https://arxiv.org/abs/2608.04710)
 - [The RAIL Principles for Neurosymbolic AI: Reasoning, Assurances, Interfacing and Learning](https://arxiv.org/abs/2608.04285)
 - [From Non-Convex Self-Concordant Regularization to Scalable Quasi-Newton Training of PINNs](https://arxiv.org/abs/2608.04206)
+- [Alternating Levenberg-Marquardt Training of Physics-Informed Neural Networks with Fourier-Enhanced Features](https://arxiv.org/abs/2608.05892)
+- [Entangling power of neural networks](https://arxiv.org/abs/2608.05293)
 
 
 ## Library
