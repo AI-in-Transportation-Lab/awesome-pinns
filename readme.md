@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-August 10, 2026 at 01:28:07 AM UTC
+August 11, 2026 at 01:25:36 AM UTC
 
 
 ## Theorem
 
-## Papers (999)
+## Papers (1005)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1033,6 +1033,12 @@ August 10, 2026 at 01:28:07 AM UTC
 - [Alternating Levenberg-Marquardt Training of Physics-Informed Neural Networks with Fourier-Enhanced Features](https://arxiv.org/abs/2608.05892)
 - [Entangling power of neural networks](https://arxiv.org/abs/2608.05293)
 - [Classifying Multipartite Continuous Variable Entanglement Structures through Data-augmented Neural Networks](https://arxiv.org/abs/2409.07909)
+- [Eikonal Regularisation in Physics-Informed Neural Networks for Three-Dimensional Level-Set Advection: Transferability of Two-Dimensional Design Principles](https://arxiv.org/abs/2608.08322)
+- [Hybrid Quantum-Classical PINNs for Scientific Computing: A Multi-GPU Open-Source Framework](https://arxiv.org/abs/2604.15645)
+- [Finite basis physics-informed neural networks with hard constraints for viscous fluid flow in highly perforated domains](https://arxiv.org/abs/2608.08114)
+- [Nonadiabatic Molecular Dynamics on Real-time Excited-State Surfaces via Machine Learning Hamiltonians](https://arxiv.org/abs/2608.08095)
+- [Tools to Explain Neural Networks for Power System Dynamics](https://arxiv.org/abs/2608.08048)
+- [PhysAttNet: Enhancing Predictive Performance in Industrial and Astrophysical Time Series via Physics-Informed Attention](https://arxiv.org/abs/2608.07681)
 
 
 ## Library
