@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-August 11, 2026 at 01:25:36 AM UTC
+August 12, 2026 at 01:42:58 AM UTC
 
 
 ## Theorem
 
-## Papers (1005)
+## Papers (1011)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1039,6 +1039,12 @@ August 11, 2026 at 01:25:36 AM UTC
 - [Nonadiabatic Molecular Dynamics on Real-time Excited-State Surfaces via Machine Learning Hamiltonians](https://arxiv.org/abs/2608.08095)
 - [Tools to Explain Neural Networks for Power System Dynamics](https://arxiv.org/abs/2608.08048)
 - [PhysAttNet: Enhancing Predictive Performance in Industrial and Astrophysical Time Series via Physics-Informed Attention](https://arxiv.org/abs/2608.07681)
+- [Efficient Weak-Entropy PINN for Solving Hyperbolic Conservation Laws](https://arxiv.org/abs/2608.10389)
+- [The near-threshold cross section of e^+e^- \to Ω^-\barΩ^+e^+e^- \to Ω^-\barΩ^+: Heavy-flavor rescattering and physics-informed deep learning](https://arxiv.org/abs/2608.10301)
+- [Deep Learning Imputation of Missing Radius of Maximum Winds (Rmax) Values in Tropical Cyclone Best-Track Data](https://arxiv.org/abs/2608.09683)
+- [Hierarchical rank-evolving representation for physics-informed neural networks](https://arxiv.org/abs/2608.09483)
+- [Robust Fault Detection and Classification in Power Systems via Physics-Informed and Data-Driven Learning](https://arxiv.org/abs/2608.08785)
+- [ProPINN: Demystifying Propagation Failures in Physics-Informed Neural Networks](https://arxiv.org/abs/2502.00803)
 
 
 ## Library
