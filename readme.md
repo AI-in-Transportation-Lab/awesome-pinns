@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-August 12, 2026 at 01:42:58 AM UTC
+August 13, 2026 at 01:45:20 AM UTC
 
 
 ## Theorem
 
-## Papers (1011)
+## Papers (1014)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1045,6 +1045,9 @@ August 12, 2026 at 01:42:58 AM UTC
 - [Hierarchical rank-evolving representation for physics-informed neural networks](https://arxiv.org/abs/2608.09483)
 - [Robust Fault Detection and Classification in Power Systems via Physics-Informed and Data-Driven Learning](https://arxiv.org/abs/2608.08785)
 - [ProPINN: Demystifying Propagation Failures in Physics-Informed Neural Networks](https://arxiv.org/abs/2502.00803)
+- [Forward Trajectory Steering for Hamilton-Jacobi Reachability Analysis](https://arxiv.org/abs/2608.11480)
+- [Derivative Computation in PINNs: Automatic Differentiation, Finite Differences and Beyond](https://arxiv.org/abs/2608.11020)
+- [Physics-Informed Implicit Neural Representations for Improved Myocardial Perfusion MRI Quantification](https://arxiv.org/abs/2608.11282)
 
 
 ## Library
