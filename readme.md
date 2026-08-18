@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-August 17, 2026 at 01:05:39 AM UTC
+August 18, 2026 at 01:03:32 AM UTC
 
 
 ## Theorem
 
-## Papers (1015)
+## Papers (1019)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1049,6 +1049,10 @@ August 17, 2026 at 01:05:39 AM UTC
 - [Derivative Computation in PINNs: Automatic Differentiation, Finite Differences and Beyond](https://arxiv.org/abs/2608.11020)
 - [Physics-Informed Implicit Neural Representations for Improved Myocardial Perfusion MRI Quantification](https://arxiv.org/abs/2608.11282)
 - [HI-MeshGraphNets: Efficient and Accurate Mesh-based Physics Learning with Hierarchical Multi-scale Graph Neural Networks](https://arxiv.org/abs/2608.13827)
+- [Beyond Field Accuracy: Two-Axis Diagnosis of Inverse-PINN Parameter Error](https://arxiv.org/abs/2608.15373)
+- [MiNO: Cotangent-bundle propagator learning for PDEs](https://arxiv.org/abs/2608.15187)
+- [ER-KANs: Efficient and Robust Kolmogorov-Arnold Networks for Data-Scarce Scientific Machine Learning](https://arxiv.org/abs/2608.14773)
+- [Real-Time State-of-Health Estimation and Online Degradation Prognosis from Partial Battery Discharge Using Physics-Informed Neural Networks](https://arxiv.org/abs/2608.14764)
 
 
 ## Library
