@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-August 18, 2026 at 01:03:32 AM UTC
+August 19, 2026 at 01:04:23 AM UTC
 
 
 ## Theorem
 
-## Papers (1019)
+## Papers (1022)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1053,6 +1053,9 @@ August 18, 2026 at 01:03:32 AM UTC
 - [MiNO: Cotangent-bundle propagator learning for PDEs](https://arxiv.org/abs/2608.15187)
 - [ER-KANs: Efficient and Robust Kolmogorov-Arnold Networks for Data-Scarce Scientific Machine Learning](https://arxiv.org/abs/2608.14773)
 - [Real-Time State-of-Health Estimation and Online Degradation Prognosis from Partial Battery Discharge Using Physics-Informed Neural Networks](https://arxiv.org/abs/2608.14764)
+- [Information fusion and machine learning for sensitivity analysis using physics knowledge and experimental data](https://arxiv.org/abs/2608.17248)
+- [Physics-Informed and Hybrid Machine Learning in Additive Manufacturing: Application to Fused Filament Fabrication](https://arxiv.org/abs/2608.17246)
+- [Deep-learning classification of physically admissible nuclear-matter equations of state](https://arxiv.org/abs/2608.16051)
 
 
 ## Library
