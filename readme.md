@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-August 26, 2026 at 01:07:53 AM UTC
+August 27, 2026 at 07:14:44 AM UTC
 
 
 ## Theorem
 
-## Papers (1028)
+## Papers (1034)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1062,6 +1062,12 @@ August 26, 2026 at 01:07:53 AM UTC
 - [Precise Modeling of a Complex Solenoidal Magnetic Field Using a Combination of Analytic Functions and a PINN](https://arxiv.org/abs/2608.21658)
 - [Robust training and rigorous error analysis of physics-informed neural networks for the pp-Laplace equation](https://arxiv.org/abs/2608.24205)
 - [Extensive Air Showers Parameters Estimation Using Machine Learning Techniques with Simulations of the FAST Telescope](https://arxiv.org/abs/2608.22940)
+- [StablePDENet: Enhancing Neural Operator Stability through Physics-Informed Residual-Sensitivity Regularization](https://arxiv.org/abs/2601.06472)
+- [Physics-Informed Foresight Pruning for Sparse PINN Solvers of Nonlinear PDEs](https://arxiv.org/abs/2608.25564)
+- [Joint Initialization of Flux Networks and Effective Multiplication Factor for Physics-Informed Neural Networks Solving Neutron Diffusion Problems](https://arxiv.org/abs/2608.25443)
+- [Neither Precision Nor Architecture Alone: Controlled Tests of Failure Remedies for Physics-Informed Neural Networks](https://arxiv.org/abs/2608.25327)
+- [Physics-Informed Error Field Learning: A Post-Training Optimization Framework for Physics-Informed Neural Networks](https://arxiv.org/abs/2608.24970)
+- [When Does Frequency Decomposition Benefit Physics-Informed Neural Networks? A Preliminary Ablation Study](https://arxiv.org/abs/2608.24940)
 
 
 ## Library
