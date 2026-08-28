@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-August 27, 2026 at 07:14:44 AM UTC
+August 28, 2026 at 09:27:55 AM UTC
 
 
 ## Theorem
 
-## Papers (1034)
+## Papers (1037)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1068,6 +1068,9 @@ August 27, 2026 at 07:14:44 AM UTC
 - [Neither Precision Nor Architecture Alone: Controlled Tests of Failure Remedies for Physics-Informed Neural Networks](https://arxiv.org/abs/2608.25327)
 - [Physics-Informed Error Field Learning: A Post-Training Optimization Framework for Physics-Informed Neural Networks](https://arxiv.org/abs/2608.24970)
 - [When Does Frequency Decomposition Benefit Physics-Informed Neural Networks? A Preliminary Ablation Study](https://arxiv.org/abs/2608.24940)
+- [Physics-Informed Stochastic Configuration Machine: A Backpropagation-Free Neural Network with Fast Training for Nonlinear Differential Equations](https://arxiv.org/abs/2608.26549)
+- [Beyond Electrons: A Theoretical Framework for Near-Field Radiative Thermal Computing and Neural-Network-Inspired Processing](https://arxiv.org/abs/2608.06203)
+- [Constraint-Aware Physics-Informed Neural Networks for Static Shape Estimation of Co-Manipulative Continuum Robots](https://arxiv.org/abs/2608.26273)
 
 
 ## Library
