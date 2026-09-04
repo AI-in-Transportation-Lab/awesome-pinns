@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 3, 2026 at 02:53:34 AM UTC
+September 4, 2026 at 02:56:47 AM UTC
 
 
 ## Theorem
 
-## Papers (1045)
+## Papers (1048)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1079,6 +1079,9 @@ September 3, 2026 at 02:53:34 AM UTC
 - [Gradient-Update Mismatch: Rethinking Conflict-Free Training of Physics-Informed Neural Networks](https://arxiv.org/abs/2609.01558)
 - [Predicting Subsurface Abnormalities Growth using Physics-Informed Neural Networks](https://arxiv.org/abs/2609.01417)
 - [A Computational Comparison of Fourier Spectral Differentiation and Spatial Automatic Differentiation in Periodic Physics-Informed Neural Networks](https://arxiv.org/abs/2609.02110)
+- [Linearized subspace refinement framework to expose hidden accuracy in trained neural networks](https://arxiv.org/abs/2601.13989)
+- [Observation-Aligned Two-Stage Domain Decomposition for Physics-Informed Traffic State Estimation with Sparse Fixed Sensors](https://arxiv.org/abs/2605.08028)
+- [Physics-Informed Neural Network Surrogate for Oxygen Vacancy Dynamics in epitaxial \mathrm{SrTiO_3}\mathrm{SrTiO_3} on Si memristors via Dynamic Spectral Optimization](https://arxiv.org/abs/2609.02966)
 
 
 ## Library
