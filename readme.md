@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 13, 2026 at 03:05:48 AM UTC
+September 14, 2026 at 03:20:24 AM UTC
 
 
 ## Theorem
 
-## Papers (1059)
+## Papers (1061)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1093,6 +1093,8 @@ September 13, 2026 at 03:05:48 AM UTC
 - [Physics-Informed Neural Networks for Depth-Averaged Granular Avalanche Dynamics on Curved Topography](https://arxiv.org/abs/2609.05542)
 - [Development and Validation of a Physics-Guided Machine Learning Extrapolation Framework Using a Classical Transient Diffusion Benchmark](https://arxiv.org/abs/2609.09912)
 - [A variational physics-informed graph neural network for heterogeneous solid mechanics](https://arxiv.org/abs/2609.10983)
+- [Physics-enriched neural solvers for transient ice-flow simulation](https://arxiv.org/abs/2609.12900)
+- [PDE-constrained inverse problems at the \sqrt{n}\sqrt{n} rate via debiased physics-informed neural networks](https://arxiv.org/abs/2609.12301)
 
 
 ## Library
