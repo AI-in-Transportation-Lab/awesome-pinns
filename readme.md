@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 14, 2026 at 03:20:24 AM UTC
+September 15, 2026 at 03:21:07 AM UTC
 
 
 ## Theorem
 
-## Papers (1061)
+## Papers (1065)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1095,6 +1095,10 @@ September 14, 2026 at 03:20:24 AM UTC
 - [A variational physics-informed graph neural network for heterogeneous solid mechanics](https://arxiv.org/abs/2609.10983)
 - [Physics-enriched neural solvers for transient ice-flow simulation](https://arxiv.org/abs/2609.12900)
 - [PDE-constrained inverse problems at the \sqrt{n}\sqrt{n} rate via debiased physics-informed neural networks](https://arxiv.org/abs/2609.12301)
+- [Tackling Failure Modes of PINNs and PIKANs Using Conflict-Free Gradients](https://arxiv.org/abs/2609.14841)
+- [Architecture--Optimization Co-Design for Physics-Informed Neural Networks via Layer-wise Coordinate Adaptation and Gradient Conflict Resolution](https://arxiv.org/abs/2601.12971)
+- [PhysSAE: Mechanistic Interpretability of PINNs with Sparse Autoencoders](https://arxiv.org/abs/2609.07061)
+- [A pullback-corrected scalar auxiliary variable optimizer with momentum and adaptive mobility](https://arxiv.org/abs/2609.13569)
 
 
 ## Library
