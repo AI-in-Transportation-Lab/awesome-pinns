@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 16, 2026 at 03:17:08 AM UTC
+September 17, 2026 at 03:23:07 AM UTC
 
 
 ## Theorem
 
-## Papers (1066)
+## Papers (1070)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1100,6 +1100,10 @@ September 16, 2026 at 03:17:08 AM UTC
 - [PhysSAE: Mechanistic Interpretability of PINNs with Sparse Autoencoders](https://arxiv.org/abs/2609.07061)
 - [A pullback-corrected scalar auxiliary variable optimizer with momentum and adaptive mobility](https://arxiv.org/abs/2609.13569)
 - [Physics Informed Random Feature Neural Networks for Solving PDEs](https://arxiv.org/abs/2609.16406)
+- [Deep learning emergent spacetime from fermionic spectral functions in holography](https://arxiv.org/abs/2609.18566)
+- [Physics-Informed Neural Networks for Fast Multilayer Spectral Inversion of Hα 6562.8 A and Ca II 8542.1 A Spectra](https://arxiv.org/abs/2609.18025)
+- [Hybrid coupling with numerics-informed neural networks and the overlapping Schwarz alternating method](https://arxiv.org/abs/2609.17841)
+- [Lecture notes on Physics Informed Neural Networks, Neural Operators, and their applications](https://arxiv.org/abs/2609.17638)
 
 
 ## Library
