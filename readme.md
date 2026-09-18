@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 17, 2026 at 03:23:07 AM UTC
+September 18, 2026 at 03:09:05 AM UTC
 
 
 ## Theorem
 
-## Papers (1070)
+## Papers (1076)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1104,6 +1104,12 @@ September 17, 2026 at 03:23:07 AM UTC
 - [Physics-Informed Neural Networks for Fast Multilayer Spectral Inversion of Hα 6562.8 A and Ca II 8542.1 A Spectra](https://arxiv.org/abs/2609.18025)
 - [Hybrid coupling with numerics-informed neural networks and the overlapping Schwarz alternating method](https://arxiv.org/abs/2609.17841)
 - [Lecture notes on Physics Informed Neural Networks, Neural Operators, and their applications](https://arxiv.org/abs/2609.17638)
+- [Beyond PINNs: A Unified Gauss--Newton and Petrov--Galerkin Framework for Neural and Hybrid PDE Solvers](https://arxiv.org/abs/2609.20641)
+- [Comparison of Image Processing Models in Quark Gluon Jet Classification](https://arxiv.org/abs/2602.00141)
+- [Amortizing Physics-Informed Neural Solvers via Graph Hypernetworks](https://arxiv.org/abs/2609.19915)
+- [Uncertainty quantification design principles for machine learning interatomic potentials: lessons learned from hierarchical Bayesian inference](https://arxiv.org/abs/2206.08744)
+- [Normalizing Flow-Based Bayesian Parameter Estimation for Noisy Quantum States](https://arxiv.org/abs/2609.19534)
+- [Learn2Drive: A neural network-based framework for socially compliant automated vehicle control](https://arxiv.org/abs/2510.21736)
 
 
 ## Library
