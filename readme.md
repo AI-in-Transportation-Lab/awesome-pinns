@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 20, 2026 at 03:21:33 AM UTC
+September 21, 2026 at 03:16:40 AM UTC
 
 
 ## Theorem
 
-## Papers (1076)
+## Papers (1078)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1110,6 +1110,8 @@ September 20, 2026 at 03:21:33 AM UTC
 - [Uncertainty quantification design principles for machine learning interatomic potentials: lessons learned from hierarchical Bayesian inference](https://arxiv.org/abs/2206.08744)
 - [Normalizing Flow-Based Bayesian Parameter Estimation for Noisy Quantum States](https://arxiv.org/abs/2609.19534)
 - [Learn2Drive: A neural network-based framework for socially compliant automated vehicle control](https://arxiv.org/abs/2510.21736)
+- [Automated Physics-Informed Neural-Networks-Based Calibration of Highly Segmented Silicon Telescopes](https://arxiv.org/abs/2609.20868)
+- [An interpretable model of spectral scattering of arterial pulse waves in the circle of Willis encodes occlusion location](https://arxiv.org/abs/2609.20858)
 
 
 ## Library
