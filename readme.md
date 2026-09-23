@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 22, 2026 at 03:16:12 AM UTC
+September 23, 2026 at 03:16:44 AM UTC
 
 
 ## Theorem
 
-## Papers (1084)
+## Papers (1086)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1118,6 +1118,8 @@ September 22, 2026 at 03:16:12 AM UTC
 - [LPINNs: First-Layer Gated Localization for Physics-Informed Neural Networks](https://arxiv.org/abs/2609.22984)
 - [Label Propagation for Physics-Informed Neural Networks and Physics-Informed Gaussian Processes](https://arxiv.org/abs/2404.05817)
 - [Approaching the Inverse Neutron Scattering Problem with Neural Networks](https://arxiv.org/abs/2609.22535)
+- [AURA: Angular Update Rate Adaptation for training complex-valued neural networks](https://arxiv.org/abs/2609.25914)
+- [Sex Estimation from Footwear Outsole Impressions Using CNN Transfer Learning and Interpretable Image Statistics](https://arxiv.org/abs/2609.25386)
 
 
 ## Library
