@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 24, 2026 at 03:06:18 AM UTC
+September 25, 2026 at 03:23:04 AM UTC
 
 
 ## Theorem
 
-## Papers (1088)
+## Papers (1090)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1122,6 +1122,8 @@ September 24, 2026 at 03:06:18 AM UTC
 - [Sex Estimation from Footwear Outsole Impressions Using CNN Transfer Learning and Interpretable Image Statistics](https://arxiv.org/abs/2609.25386)
 - [Data-driven discrete-time deep recurrent neural network-based modeling for dissipative systems](https://arxiv.org/abs/2609.27186)
 - [An improved periodic activation for PINNs reconstructing convective flows](https://arxiv.org/abs/2609.21798)
+- [Response-state Learning for Transferable Vibrational Spectroscopic Characterization with Electron Prior](https://arxiv.org/abs/2609.28935)
+- [The Mechanics of Delta Learning: Target Design for Generalizable Scientific Machine Learning](https://arxiv.org/abs/2609.28782)
 
 
 ## Library
