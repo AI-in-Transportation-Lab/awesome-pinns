@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 27, 2026 at 03:37:19 AM UTC
+September 28, 2026 at 03:35:46 AM UTC
 
 
 ## Theorem
 
-## Papers (1090)
+## Papers (1094)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1124,6 +1124,10 @@ September 27, 2026 at 03:37:19 AM UTC
 - [An improved periodic activation for PINNs reconstructing convective flows](https://arxiv.org/abs/2609.21798)
 - [Response-state Learning for Transferable Vibrational Spectroscopic Characterization with Electron Prior](https://arxiv.org/abs/2609.28935)
 - [The Mechanics of Delta Learning: Target Design for Generalizable Scientific Machine Learning](https://arxiv.org/abs/2609.28782)
+- [NEXT: Physics-Informed Neuro-Spectral Exponential Time Differencing Architectures](https://arxiv.org/abs/2609.31539)
+- [Bayesian Tensor Autoencoder with Physics-informed Predictive Prior for Multi-dimensional Time Series Anomaly Detection](https://arxiv.org/abs/2609.31157)
+- [Gradient Surgery for Physics-Informed Neural Networks](https://arxiv.org/abs/2609.30966)
+- [Deep-Learning Solvers and Surrogates for Infinity and p-Laplace Problems](https://arxiv.org/abs/2609.30809)
 
 
 ## Library
