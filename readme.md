@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-September 28, 2026 at 03:35:46 AM UTC
+September 29, 2026 at 04:11:07 AM UTC
 
 
 ## Theorem
 
-## Papers (1094)
+## Papers (1102)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1128,6 +1128,14 @@ September 28, 2026 at 03:35:46 AM UTC
 - [Bayesian Tensor Autoencoder with Physics-informed Predictive Prior for Multi-dimensional Time Series Anomaly Detection](https://arxiv.org/abs/2609.31157)
 - [Gradient Surgery for Physics-Informed Neural Networks](https://arxiv.org/abs/2609.30966)
 - [Deep-Learning Solvers and Surrogates for Infinity and p-Laplace Problems](https://arxiv.org/abs/2609.30809)
+- [RepNN: Tackling spectral bias in deep neural networks for regression and PDE problems via parameter reparameterization](https://arxiv.org/abs/2606.16575)
+- [Physics-Informed Neural Networks for Depth-Averaged Avalanche Dynamics](https://arxiv.org/abs/2609.34916)
+- [From Grey-Box to Green-Box: When can Physics-Informed Machine Learning Reduce Carbon Footprints in Structural Health Monitoring?](https://arxiv.org/abs/2609.33387)
+- [The limits of exactness: On the failure of automatic differentiation in physics-informed machine learning](https://arxiv.org/abs/2609.33078)
+- [Machine learning for the LHC physics program: a 2025-2026 stocktake](https://arxiv.org/abs/2609.32874)
+- [PINNMorph: Evolving Online Adaptation Policies for Physics-Informed Neural Networks](https://arxiv.org/abs/2609.32685)
+- [Cool Embeddings: Predicting Galaxy Cluster Cooling Times in IllustrisTNG and TNG-Cluster with AstroCLIP](https://arxiv.org/abs/2609.32582)
+- [Uncovering flame physics with machine learning: application to the reaction rate in hydrogen flames](https://arxiv.org/abs/2609.32552)
 
 
 ## Library
