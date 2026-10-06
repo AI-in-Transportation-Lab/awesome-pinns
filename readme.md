@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-October 5, 2026 at 04:00:18 AM UTC
+October 6, 2026 at 04:49:21 AM UTC
 
 
 ## Theorem
 
-## Papers (1118)
+## Papers (1125)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1152,6 +1152,13 @@ October 5, 2026 at 04:00:18 AM UTC
 - [Hyperparameter selection for equation learning with biologically-informed neural networks](https://arxiv.org/abs/2610.02954)
 - [Evaluation of Sampling Strategies and Physics-Informed Kolmogorov--Arnold Networks in Unbounded Domains](https://arxiv.org/abs/2512.12074)
 - [Feature tracking in physics-informed neural networks via joint optimization of nonlinear deformation manifolds: application to shocks](https://arxiv.org/abs/2610.02230)
+- [IGA-KAN: Isogeometric Analysis with Physics-Informed Closed-Form Kolmogorov-Arnold Networks for Forward and Inverse PDEs](https://arxiv.org/abs/2610.06348)
+- [Comparison of neural and spline representations for physics-informed learning](https://arxiv.org/abs/2610.06294)
+- [Parameter Estimation in Machining Dynamics with Regenerative Delay and Nonsmooth Friction using Physics-Informed Neural Networks](https://arxiv.org/abs/2610.06230)
+- [Boosted top tagging via lepton-in-jet topology for vector-like quark searches in FCC-hh](https://arxiv.org/abs/2610.05104)
+- [HFS-TransNet: A Hybrid Fixed-Stress Transferable Neural Network for Quasi-Static Biot Poroelasticity](https://arxiv.org/abs/2610.04879)
+- [CEENs: Causality-enforced evolutional networks for solving time-dependent partial differential equations](https://arxiv.org/abs/2610.04405)
+- [Checkable NTK Positivity and Finite-Width Gradient Descent for Scalar- and Vector-Valued PINNs with Strong-Form, Weak-Form, and Nonlocal Linear Constraints](https://arxiv.org/abs/2610.04357)
 
 
 ## Library
