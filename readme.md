@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-October 7, 2026 at 04:15:38 AM UTC
+October 8, 2026 at 04:27:32 AM UTC
 
 
 ## Theorem
 
-## Papers (1127)
+## Papers (1129)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1161,6 +1161,8 @@ October 7, 2026 at 04:15:38 AM UTC
 - [Checkable NTK Positivity and Finite-Width Gradient Descent for Scalar- and Vector-Valued PINNs with Strong-Form, Weak-Form, and Nonlocal Linear Constraints](https://arxiv.org/abs/2610.04357)
 - [Stochastic Penalty-Barrier Method for Constrained Machine Learning](https://arxiv.org/abs/2605.18618)
 - [Soft Contrastive Learning for Unsupervised Discovery of Phases of Matter](https://arxiv.org/abs/2610.08116)
+- [Learning Traffic Flow Dynamics with Stochastic Physics-Informed Neural Cellular Automata](https://arxiv.org/abs/2610.09946)
+- [Domain-informed Adaptive Sampling for Generalizable PINNs in Metal Additive Manufacturing via Conditional Flow Matching](https://arxiv.org/abs/2610.09126)
 
 
 ## Library
