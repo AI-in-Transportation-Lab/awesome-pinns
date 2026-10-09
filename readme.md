@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-October 8, 2026 at 04:27:32 AM UTC
+October 9, 2026 at 04:31:27 AM UTC
 
 
 ## Theorem
 
-## Papers (1129)
+## Papers (1136)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1163,6 +1163,13 @@ October 8, 2026 at 04:27:32 AM UTC
 - [Soft Contrastive Learning for Unsupervised Discovery of Phases of Matter](https://arxiv.org/abs/2610.08116)
 - [Learning Traffic Flow Dynamics with Stochastic Physics-Informed Neural Cellular Automata](https://arxiv.org/abs/2610.09946)
 - [Domain-informed Adaptive Sampling for Generalizable PINNs in Metal Additive Manufacturing via Conditional Flow Matching](https://arxiv.org/abs/2610.09126)
+- [Deep learning in the abyss: a stratified Physics Informed Neural Network for data assimilation](https://arxiv.org/abs/2503.19160)
+- [Uncovering and Fixing Collider Bias in Bayesian PINNs](https://arxiv.org/abs/2610.11737)
+- [Cova-PINN: Cross-Domain Conservation Physics-Informed Neural Network for Fluid-Solid Conjugate Heat Transfer in Complex Geometries](https://arxiv.org/abs/2610.11108)
+- [Power Side-Channel Membership Inference Attack on Embedded Machine Learning](https://arxiv.org/abs/2610.10909)
+- [Gen-PINNs: Generative Adversarial Physics Informed Neural Networks for solving partial differential equations](https://arxiv.org/abs/2610.10897)
+- [A mesh-based neural energy method for the simulation of heterogeneous composites](https://arxiv.org/abs/2610.10862)
+- [NEMORA: Neural Equivariant Multipole Operators for Long-Range Atomistic Learning](https://arxiv.org/abs/2610.10776)
 
 
 ## Library
