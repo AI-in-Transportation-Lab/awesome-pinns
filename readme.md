@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-October 13, 2026 at 05:26:24 AM UTC
+October 14, 2026 at 03:31:05 AM UTC
 
 
 ## Theorem
 
-## Papers (1138)
+## Papers (1142)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1172,6 +1172,10 @@ October 13, 2026 at 05:26:24 AM UTC
 - [NEMORA: Neural Equivariant Multipole Operators for Long-Range Atomistic Learning](https://arxiv.org/abs/2610.10776)
 - [A Multi-Agent LLM System for Automated Tuning of Specialized Neural Network Models](https://arxiv.org/abs/2610.13663)
 - [PDE-PFN: Prior-Data Fitted Neural PDE Solver](https://arxiv.org/abs/2610.13334)
+- [Separating charm and bottom decay electrons with point-cloud deep learning on the charged-hadron environment](https://arxiv.org/abs/2607.02225)
+- [An Attention-Guided Graph Neural Network Surrogate for Boundary Integral Computation in Physical Field Reconstruction](https://arxiv.org/abs/2610.15590)
+- [Physics-informed random neural architectures on compact boundaryless multiply connected manifolds for random-operator models in machine learning and uncertainty quantification](https://arxiv.org/abs/2610.14844)
+- [AI Meets Turbulence Modeling: Complex Systems Perspective](https://arxiv.org/abs/2610.14355)
 
 
 ## Library
