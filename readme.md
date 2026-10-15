@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-October 14, 2026 at 03:31:05 AM UTC
+October 15, 2026 at 03:09:13 AM UTC
 
 
 ## Theorem
 
-## Papers (1142)
+## Papers (1146)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1176,6 +1176,10 @@ October 14, 2026 at 03:31:05 AM UTC
 - [An Attention-Guided Graph Neural Network Surrogate for Boundary Integral Computation in Physical Field Reconstruction](https://arxiv.org/abs/2610.15590)
 - [Physics-informed random neural architectures on compact boundaryless multiply connected manifolds for random-operator models in machine learning and uncertainty quantification](https://arxiv.org/abs/2610.14844)
 - [AI Meets Turbulence Modeling: Complex Systems Perspective](https://arxiv.org/abs/2610.14355)
+- [HGRP: Heterogeneous Graph Neural Network for Routability Prediction](https://arxiv.org/abs/2610.20209)
+- [Beyond Time Induction: Structured Conditional Neural Solvers for Parametric Stochastic-Volatility Pricing](https://arxiv.org/abs/2610.19254)
+- [Conformalized Physics-Informed Weak Regression for Parameter Estimation in Epidemic Models](https://arxiv.org/abs/2610.19058)
+- [PING: physics informed graph neural network for advection-diffusion processes with applications to solar power forecasting](https://arxiv.org/abs/2610.18280)
 
 
 ## Library
