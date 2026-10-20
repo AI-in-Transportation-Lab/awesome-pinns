@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-October 19, 2026 at 03:12:49 AM UTC
+October 20, 2026 at 03:22:07 AM UTC
 
 
 ## Theorem
 
-## Papers (1150)
+## Papers (1155)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1184,6 +1184,11 @@ October 19, 2026 at 03:12:49 AM UTC
 - [Parallel Layer Normalization for Universal Approximation](https://arxiv.org/abs/2505.13142)
 - [Sampling the XY model with an attention-based neural network](https://arxiv.org/abs/2610.23783)
 - [Gabor-Enhanced Physics-Informed Neural Networks for Fast Simulations of Acoustic Wavefields](https://arxiv.org/abs/2502.17134)
+- [PhyPro-FM: A Physics and Prompt-Guided Graph Foundation Model for Contingency Analysis](https://arxiv.org/abs/2610.26351)
+- [Deep Stochastic Residual Methods for Fully Nonlinear Parabolic Equations](https://arxiv.org/abs/2607.16730)
+- [FHKAN: Fractional Hermite Kolmogorov-Arnold Networks for Data-Driven and Physics-Informed Learning](https://arxiv.org/abs/2610.25148)
+- [When Does Cheap Physics Help? Gated Multi-Fidelity Physics-Informed Networks with Provable Sample Savings and Conformal Guarantees](https://arxiv.org/abs/2602.01176)
+- [Parameter misspecification in physics-informed neural networks: A closed-form audit and its limits](https://arxiv.org/abs/2610.23948)
 
 
 ## Library
