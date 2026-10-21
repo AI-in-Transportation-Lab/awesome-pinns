@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-October 20, 2026 at 03:22:07 AM UTC
+October 21, 2026 at 03:17:08 AM UTC
 
 
 ## Theorem
 
-## Papers (1155)
+## Papers (1160)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1189,6 +1189,11 @@ October 20, 2026 at 03:22:07 AM UTC
 - [FHKAN: Fractional Hermite Kolmogorov-Arnold Networks for Data-Driven and Physics-Informed Learning](https://arxiv.org/abs/2610.25148)
 - [When Does Cheap Physics Help? Gated Multi-Fidelity Physics-Informed Networks with Provable Sample Savings and Conformal Guarantees](https://arxiv.org/abs/2602.01176)
 - [Parameter misspecification in physics-informed neural networks: A closed-form audit and its limits](https://arxiv.org/abs/2610.23948)
+- [PaPi: Parallel Picard-Duhamel Integration for Fast Neuro-Spectral Architectures](https://arxiv.org/abs/2610.28591)
+- [Manifold-Informed Neural Networks for Low-Label ECG Electrolyte Inference](https://arxiv.org/abs/2610.28322)
+- [Physics Inspired Neural Networks Enable Efficient Graph Coloring](https://arxiv.org/abs/2408.01503)
+- [HypoNet Nankai PS: rapid hypocenter determination for the Nankai Trough using physics-informed neural networks with three-dimensional P- and S-wave velocity models](https://arxiv.org/abs/2610.27561)
+- [Low Residuals, Wrong Value: Learning the Viscosity Solution of Hamilton-Jacobi-Isaacs Equations with PINNs](https://arxiv.org/abs/2610.27193)
 
 
 ## Library
