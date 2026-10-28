@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-October 26, 2026 at 03:09:31 AM UTC
+October 28, 2026 at 03:57:06 AM UTC
 
 
 ## Theorem
 
-## Papers (1163)
+## Papers (1166)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1197,6 +1197,9 @@ October 26, 2026 at 03:09:31 AM UTC
 - [HAWC-Leak: Heterogeneous Architecture Workload Classification utilizing Side-Channel Leakage](https://arxiv.org/abs/2610.30400)
 - [GeoDiv KAN Solver for Time Fractional Navier Stokes Equations on Complex Domains to Realistic CFD Reconstruction](https://arxiv.org/abs/2610.30179)
 - [Cautious Conflict-Free Inverse Gradient Methods](https://arxiv.org/abs/2610.31855)
+- [KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry](https://arxiv.org/abs/2610.37655)
+- [QD-PINN:A Physics-Informed Neural Network Approach to Bayesian Quickest Detection in High-Dimensional Diffusions](https://arxiv.org/abs/2610.37473)
+- [Differentiable FEM versus PINN for pavement layer inverse analysis: enforcing physics as hard or soft constraints](https://arxiv.org/abs/2606.03210)
 
 
 ## Library
