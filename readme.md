@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-October 29, 2026 at 04:19:44 AM UTC
+October 30, 2026 at 04:20:03 AM UTC
 
 
 ## Theorem
 
-## Papers (1166)
+## Papers (1168)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1200,6 +1200,8 @@ October 29, 2026 at 04:19:44 AM UTC
 - [KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry](https://arxiv.org/abs/2610.37655)
 - [QD-PINN:A Physics-Informed Neural Network Approach to Bayesian Quickest Detection in High-Dimensional Diffusions](https://arxiv.org/abs/2610.37473)
 - [Differentiable FEM versus PINN for pavement layer inverse analysis: enforcing physics as hard or soft constraints](https://arxiv.org/abs/2606.03210)
+- [UnEZ: A Fully Unsupervised Self-Templating Neural Network for Redshift and Line Strength Estimation](https://arxiv.org/abs/2610.38816)
+- [A Hybrid Physics-informed holomorphic neural networks Method](https://arxiv.org/abs/2610.38269)
 
 
 ## Library
