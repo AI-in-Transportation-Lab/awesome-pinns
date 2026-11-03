@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-November 2, 2026 at 04:22:10 AM UTC
+November 3, 2026 at 05:18:23 AM UTC
 
 
 ## Theorem
 
-## Papers (1171)
+## Papers (1174)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1205,6 +1205,9 @@ November 2, 2026 at 04:22:10 AM UTC
 - [Hard Constraint Projection in a Physics Informed Neural Network (Burgers)](https://arxiv.org/abs/2610.42106)
 - [How Much Reconstruction Does Quantum Machine Learning Need? Late Fusion of Uncoupled Quantum Subcircuits](https://arxiv.org/abs/2608.05595)
 - [Learning Maximal Regions of Attraction on Compact Sets using Taylor Lyapunov Networks](https://arxiv.org/abs/2408.17246)
+- [Black Hole Love Numbers with Physics-Informed Neural Networks](https://arxiv.org/abs/2611.02084)
+- [Predicting Time-Dependent Flow Over Complex Geometries Using Operator Networks](https://arxiv.org/abs/2512.04434)
+- [Boosted Physics-Informed Neural Networks for Solving Homogeneous and Non-Homogeneous Lane-Emden Type Equations](https://arxiv.org/abs/2611.00701)
 
 
 ## Library
