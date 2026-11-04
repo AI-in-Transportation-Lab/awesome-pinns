@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-November 3, 2026 at 05:18:23 AM UTC
+November 4, 2026 at 04:48:09 AM UTC
 
 
 ## Theorem
 
-## Papers (1174)
+## Papers (1182)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1208,6 +1208,14 @@ November 3, 2026 at 05:18:23 AM UTC
 - [Black Hole Love Numbers with Physics-Informed Neural Networks](https://arxiv.org/abs/2611.02084)
 - [Predicting Time-Dependent Flow Over Complex Geometries Using Operator Networks](https://arxiv.org/abs/2512.04434)
 - [Boosted Physics-Informed Neural Networks for Solving Homogeneous and Non-Homogeneous Lane-Emden Type Equations](https://arxiv.org/abs/2611.00701)
+- [De Rham cohomological architectures for PINNs and PDEs with topological holes](https://arxiv.org/abs/2611.05276)
+- [Solving the Nonlinear Westervelt Equation in Ultrasound Propagation Using Physics-Informed Neural Networks](https://arxiv.org/abs/2611.05130)
+- [DeSyR: A decoupled symbolic recovery framework for PDEs with PINN-guided structure discovery and physics-based coefficient refinement](https://arxiv.org/abs/2609.00530)
+- [Physics-Informed Identification of Tensegrity Prestress across Taut-Slack Transitions](https://arxiv.org/abs/2611.04007)
+- [Ermakov--Based embeddings as a parameter-free layer for physics-informed neural networks](https://arxiv.org/abs/2611.03964)
+- [Variational Functional Neural Networks (vfNN)](https://arxiv.org/abs/2611.03542)
+- [Identifying the Shear Piezoelectric Coefficient using Physics-Informed Neural Networks under Exact Boundary and Initial Constraints](https://arxiv.org/abs/2611.03485)
+- [A Physics Informed Neural Network Approach to Decipher Environmental Confinement of Molecular Clouds in the Third Galactic Quadrant](https://arxiv.org/abs/2611.03450)
 
 
 ## Library
