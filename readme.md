@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-November 4, 2026 at 04:48:09 AM UTC
+November 5, 2026 at 05:03:25 AM UTC
 
 
 ## Theorem
 
-## Papers (1182)
+## Papers (1184)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1216,6 +1216,8 @@ November 4, 2026 at 04:48:09 AM UTC
 - [Variational Functional Neural Networks (vfNN)](https://arxiv.org/abs/2611.03542)
 - [Identifying the Shear Piezoelectric Coefficient using Physics-Informed Neural Networks under Exact Boundary and Initial Constraints](https://arxiv.org/abs/2611.03485)
 - [A Physics Informed Neural Network Approach to Decipher Environmental Confinement of Molecular Clouds in the Third Galactic Quadrant](https://arxiv.org/abs/2611.03450)
+- [PINR-ESI: Physics-Informed Self-Supervised Implicit Neural Representation Framework for EEG Extended-Source Imaging](https://arxiv.org/abs/2611.06700)
+- [Adaptive Domain Decomposition for Finite Basis Physics-Informed Neural Networks](https://arxiv.org/abs/2611.05659)
 
 
 ## Library
