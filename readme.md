@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-November 9, 2026 at 04:37:41 AM UTC
+November 10, 2026 at 05:54:46 AM UTC
 
 
 ## Theorem
 
-## Papers (1190)
+## Papers (1195)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1224,6 +1224,11 @@ November 9, 2026 at 04:37:41 AM UTC
 - [Equidistribution of Solution Gradients in Physics-Informed Neural Networks via Coordinate Transformations](https://arxiv.org/abs/2611.09053)
 - [Task-Contribution Dynamics of Adam in Physics-Informed Neural Networks: Slow-Manifold Analysis and Gradient Modulation](https://arxiv.org/abs/2611.08910)
 - [PINNeval: A Comprehensive Evaluation Standard for Physics-Informed Neural Networks](https://arxiv.org/abs/2611.08559)
+- [On the Global Convergence of Stochastic Adam for Physics-Informed Neural Networks](https://arxiv.org/abs/2611.11905)
+- [pcNN-SN: a physics-enhanced predictor-corrector neural network algorithm coupled with the discrete ordinates method for neutron transport equations](https://arxiv.org/abs/2610.20619)
+- [Linear Generator Networks for Nonlinear Partial Differential Equations](https://arxiv.org/abs/2603.29264)
+- [Spectral Bias Reduction in Local Gated ReLU Architectures](https://arxiv.org/abs/2611.10700)
+- [Dynamic State Estimation from Sparse PMUs via Physics-Informed Graph Neural Operators](https://arxiv.org/abs/2611.10468)
 
 
 ## Library
