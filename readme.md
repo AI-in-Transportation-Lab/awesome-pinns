@@ -1128,6 +1128,7 @@ November 10, 2026 at 05:54:46 AM UTC
 - [Bayesian Tensor Autoencoder with Physics-informed Predictive Prior for Multi-dimensional Time Series Anomaly Detection](https://arxiv.org/abs/2609.31157)
 - [Gradient Surgery for Physics-Informed Neural Networks](https://arxiv.org/abs/2609.30966)
 - [Deep-Learning Solvers and Surrogates for Infinity and p-Laplace Problems](https://arxiv.org/abs/2609.30809)
+- [Staged Depth Training: A Representation Curriculum for PINNs](https://arxiv.org/abs/2609.30299)
 - [RepNN: Tackling spectral bias in deep neural networks for regression and PDE problems via parameter reparameterization](https://arxiv.org/abs/2606.16575)
 - [Physics-Informed Neural Networks for Depth-Averaged Avalanche Dynamics](https://arxiv.org/abs/2609.34916)
 - [From Grey-Box to Green-Box: When can Physics-Informed Machine Learning Reduce Carbon Footprints in Structural Health Monitoring?](https://arxiv.org/abs/2609.33387)
