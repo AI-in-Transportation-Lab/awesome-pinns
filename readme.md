@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-November 12, 2026 at 05:43:20 AM UTC
+November 13, 2026 at 05:01:51 AM UTC
 
 
 ## Theorem
 
-## Papers (1197)
+## Papers (1198)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1231,6 +1231,7 @@ November 12, 2026 at 05:43:20 AM UTC
 - [Dynamic State Estimation from Sparse PMUs via Physics-Informed Graph Neural Operators](https://arxiv.org/abs/2611.10468)
 - [Modal-Augmented Chebyshev Physics-Informed Kolmogorov-Arnold Networks for Power Systems](https://arxiv.org/abs/2611.13340)
 - [Block-Sparse Gauss-Newton Optimization of Finite Basis Physics-Informed Neural Networks: Sparse Automatic Differentiation Approach](https://arxiv.org/abs/2611.13231)
+- [TENG-BC: Time-Evolving Natural Gradient for High-Accuracy Neural PDE Solvers with General Boundary Conditions](https://arxiv.org/abs/2603.00397)
 
 
 ## Library
