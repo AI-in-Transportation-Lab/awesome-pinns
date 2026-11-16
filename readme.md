@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-November 15, 2026 at 04:45:50 AM UTC
+November 16, 2026 at 04:42:57 AM UTC
 
 
 ## Theorem
 
-## Papers (1198)
+## Papers (1201)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1232,6 +1232,9 @@ November 15, 2026 at 04:45:50 AM UTC
 - [Modal-Augmented Chebyshev Physics-Informed Kolmogorov-Arnold Networks for Power Systems](https://arxiv.org/abs/2611.13340)
 - [Block-Sparse Gauss-Newton Optimization of Finite Basis Physics-Informed Neural Networks: Sparse Automatic Differentiation Approach](https://arxiv.org/abs/2611.13231)
 - [TENG-BC: Time-Evolving Natural Gradient for High-Accuracy Neural PDE Solvers with General Boundary Conditions](https://arxiv.org/abs/2603.00397)
+- [Fuse-PINN: Combining Finite Element Methods and Physics-Informed Neural Networks to enable massively parallel simulations of non-linear PDEs](https://arxiv.org/abs/2611.18409)
+- [A systematic comparison of physics-informed neural networks and mechanistic models for epidemic modeling and forecasting](https://arxiv.org/abs/2611.18389)
+- [Federated Physics-Informed Thermal Field Prediction Across Unseen Geometries in Distributed Additive Manufacturing](https://arxiv.org/abs/2611.17794)
 
 
 ## Library
