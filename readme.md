@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-November 17, 2026 at 06:29:06 AM UTC
+November 18, 2026 at 05:52:43 AM UTC
 
 
 ## Theorem
 
-## Papers (1204)
+## Papers (1207)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1238,6 +1238,9 @@ November 17, 2026 at 06:29:06 AM UTC
 - [Newton-PINet: A fast physics-informed neural network with Newton linearization for meta-learning nonlinear PDEs](https://arxiv.org/abs/2611.20609)
 - [NAP-Wave: A Neural Adaptive Plane-Wave Architecture for High-Frequency Helmholtz Problems](https://arxiv.org/abs/2611.19603)
 - [Physics-Informed Causal Reasoning for Nonstationary Robot Dynamics](https://arxiv.org/abs/2611.19251)
+- [FlowMLLab: An open-source framework for reproducible computational-fluid-dynamics and scientific-machine-learning experiments](https://arxiv.org/abs/2609.27975)
+- [Higher-Order Interaction Reconstruction via Integral Physics-Informed Neural Networks](https://arxiv.org/abs/2611.21935)
+- [Physics-informed neural networks for spacecraft trajectory optimization with exact boundary conditions](https://arxiv.org/abs/2611.21933)
 
 
 ## Library
