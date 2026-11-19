@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-November 18, 2026 at 05:52:43 AM UTC
+November 19, 2026 at 05:52:33 AM UTC
 
 
 ## Theorem
 
-## Papers (1207)
+## Papers (1211)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1241,6 +1241,10 @@ November 18, 2026 at 05:52:43 AM UTC
 - [FlowMLLab: An open-source framework for reproducible computational-fluid-dynamics and scientific-machine-learning experiments](https://arxiv.org/abs/2609.27975)
 - [Higher-Order Interaction Reconstruction via Integral Physics-Informed Neural Networks](https://arxiv.org/abs/2611.21935)
 - [Physics-informed neural networks for spacecraft trajectory optimization with exact boundary conditions](https://arxiv.org/abs/2611.21933)
+- [Gradient-Based Defensive Poisoning Against System Identification Attacks on Cyber-Physical Systems](https://arxiv.org/abs/2611.24662)
+- [Monitoring Unplanned Construction Using Satellite Change Detection](https://arxiv.org/abs/2611.24190)
+- [A Systematic Analysis of a Small Optimal Subspace for Physics-Informed Neural Networks: nn-DAS \subset \mathbb{R}^p\subset \mathbb{R}^p](https://arxiv.org/abs/2611.23773)
+- [Toward Out-of-Distribution Generalization in Neural AC Power Flow](https://arxiv.org/abs/2611.23729)
 
 
 ## Library
