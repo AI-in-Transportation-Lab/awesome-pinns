@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-November 19, 2026 at 05:52:33 AM UTC
+November 20, 2026 at 05:42:27 AM UTC
 
 
 ## Theorem
 
-## Papers (1211)
+## Papers (1214)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1245,6 +1245,9 @@ November 19, 2026 at 05:52:33 AM UTC
 - [Monitoring Unplanned Construction Using Satellite Change Detection](https://arxiv.org/abs/2611.24190)
 - [A Systematic Analysis of a Small Optimal Subspace for Physics-Informed Neural Networks: nn-DAS \subset \mathbb{R}^p\subset \mathbb{R}^p](https://arxiv.org/abs/2611.23773)
 - [Toward Out-of-Distribution Generalization in Neural AC Power Flow](https://arxiv.org/abs/2611.23729)
+- [Encoding Orbital-Projected Densities of States in Graph Neural Networks for Materials Property Prediction](https://arxiv.org/abs/2607.07339)
+- [When and why can integral constraints improve the accuracy of physics-informed neural networks?](https://arxiv.org/abs/2611.25515)
+- [PDE-State Conditioning for Learned Optimization Using Physics-Informed Neural Networks](https://arxiv.org/abs/2611.25185)
 
 
 ## Library
