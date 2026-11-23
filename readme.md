@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-November 22, 2026 at 05:00:57 AM UTC
+November 23, 2026 at 05:43:24 AM UTC
 
 
 ## Theorem
 
-## Papers (1214)
+## Papers (1216)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1248,6 +1248,8 @@ November 22, 2026 at 05:00:57 AM UTC
 - [Encoding Orbital-Projected Densities of States in Graph Neural Networks for Materials Property Prediction](https://arxiv.org/abs/2607.07339)
 - [When and why can integral constraints improve the accuracy of physics-informed neural networks?](https://arxiv.org/abs/2611.25515)
 - [PDE-State Conditioning for Learned Optimization Using Physics-Informed Neural Networks](https://arxiv.org/abs/2611.25185)
+- [Spatiotemporal Graph Neural Networks for Fault Detection and Structural Learning in Chemical Processes: Use Case on the Tennessee Eastman Process](https://arxiv.org/abs/2611.27698)
+- [A Validation-Driven Bilevel Optimization Method for Mesh-Free PDE Solvers and Its Error Analysis](https://arxiv.org/abs/2611.27347)
 
 
 ## Library
