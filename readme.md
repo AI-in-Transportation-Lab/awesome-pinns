@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-November 23, 2026 at 05:43:24 AM UTC
+November 24, 2026 at 08:20:55 AM UTC
 
 
 ## Theorem
 
-## Papers (1216)
+## Papers (1223)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1250,6 +1250,13 @@ November 23, 2026 at 05:43:24 AM UTC
 - [PDE-State Conditioning for Learned Optimization Using Physics-Informed Neural Networks](https://arxiv.org/abs/2611.25185)
 - [Spatiotemporal Graph Neural Networks for Fault Detection and Structural Learning in Chemical Processes: Use Case on the Tennessee Eastman Process](https://arxiv.org/abs/2611.27698)
 - [A Validation-Driven Bilevel Optimization Method for Mesh-Free PDE Solvers and Its Error Analysis](https://arxiv.org/abs/2611.27347)
+- [Physics-Informed Fusion-MIONet with IFENN: A Generalized Framework for Coupled Poroelasticity Problems](https://arxiv.org/abs/2611.31078)
+- [Construction of a Deployable Closure Model for the Transport of Turbulence Dissipation Rate with Hard-Constrained Physics-Informed Machine Learning](https://arxiv.org/abs/2611.23539)
+- [IP-GNO: An Inductive Physics-Informed Graph Neural Operator for Automated Distribution System State Estimation](https://arxiv.org/abs/2611.30387)
+- [Beyond PINNs: Boundary-Enriched Holomorphic Networks for Laplace Problems](https://arxiv.org/abs/2611.29922)
+- [Lagrangian Attention Tensor Networks for Velocity Gradient Statistical Modeling](https://arxiv.org/abs/2502.07078)
+- [Expressive Shallow Networks for Physics-Informed Learning: Why Curvature-Aware Optimization and FP64 Are Not Enough](https://arxiv.org/abs/2611.28393)
+- [Physically Informed Data-Driven Modeling of Low-Pressure Carburizing (LPC): A Self-Calibrating Boundary Condition for Carbon Flux](https://arxiv.org/abs/2611.28190)
 
 
 ## Library
