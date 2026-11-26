@@ -28,12 +28,12 @@ To ensure that the community stays up to date with the latest breakthroughs, our
 Whether you're a researcher modeling complex physical systems, a developer building physics-guided models, or an enthusiast in scientific machine learning, this collection serves as a centralized hub for everything related to PIML, PINNs, and the broader integration of domain knowledge into learning systems, enriched by original peer-reviewed contributions to the field.
 
 ## Last Updated
-November 25, 2026 at 06:57:23 AM UTC
+November 26, 2026 at 06:48:17 AM UTC
 
 
 ## Theorem
 
-## Papers (1224)
+## Papers (1229)
 - [OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics](https://arxiv.org/abs/2506.10862)
 - [Hamiltonian Learning via Inverse Physics-Informed Neural Networks](https://arxiv.org/abs/2506.10379)
 - [R-PINN: Recovery-type a-posteriori estimator enhanced adaptive PINN](https://arxiv.org/abs/2506.10243)
@@ -1258,6 +1258,11 @@ November 25, 2026 at 06:57:23 AM UTC
 - [Expressive Shallow Networks for Physics-Informed Learning: Why Curvature-Aware Optimization and FP64 Are Not Enough](https://arxiv.org/abs/2611.28393)
 - [Physically Informed Data-Driven Modeling of Low-Pressure Carburizing (LPC): A Self-Calibrating Boundary Condition for Carbon Flux](https://arxiv.org/abs/2611.28190)
 - [Neural Decoding of Logical Clifford Circuits with Transversal Gates](https://arxiv.org/abs/2611.31607)
+- [Global Convergence of Second-Order Methods for Physics-Informed Neural Networks in the Overparameterized Limit](https://arxiv.org/abs/2611.34452)
+- [PINN-Slicer: Exploiting Rotational Symmetry to Solve the Photon Orbit Equation Around a Black Hole](https://arxiv.org/abs/2611.33953)
+- [Physics-Informed Learning for Multiplayer Differential Games](https://arxiv.org/abs/2611.33644)
+- [FokasNets: Completing missing boundary data in Physics-Informed Neural Networks and Operators via the Global Relation](https://arxiv.org/abs/2611.33549)
+- [Data-free continuous-time physics-informed neural networks for vortex shedding: a consistent pressure across time windows](https://arxiv.org/abs/2611.33489)
 
 
 ## Library
